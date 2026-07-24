@@ -1,0 +1,56 @@
+[
+  {
+    "id": "CMP001",
+    "nome": "Giro Sabonete Julho",
+    "familia_id": "FAM01",
+    "segmentos": [],
+    "inicio": "2026-07-06",
+    "fim": "2026-08-02",
+    "desconto_pct": 8,
+    "mecanica": "8% na linha de refil de sabonete a partir de 12 unidades"
+  },
+  {
+    "id": "CMP002",
+    "nome": "Papel Toalha Institucional",
+    "familia_id": "FAM02",
+    "segmentos": [
+      "Hospital",
+      "Clinica",
+      "Escola"
+    ],
+    "inicio": "2026-07-13",
+    "fim": "2026-07-31",
+    "desconto_pct": 12,
+    "mecanica": "12% em papel toalha para saúde e educação, mínimo 5 caixas"
+  },
+  {
+    "id": "CMP003",
+    "nome": "Álcool Gel Reposição",
+    "familia_id": "FAM04",
+    "segmentos": [],
+    "inicio": "2026-07-20",
+    "fim": "2026-09-30",
+    "desconto_pct": 6,
+    "mecanica": "6% no álcool gel 70% em compra casada com dispenser"
+  },
+  {
+    "id": "CMP004",
+    "nome": "Higienização Junho",
+    "familia_id": "FAM06",
+    "segmentos": [],
+    "inicio": "2026-06-01",
+    "fim": "2026-06-30",
+    "desconto_pct": 10,
+    "mecanica": "ENCERRADA — existe no arquivo só para testar o filtro de vigência"
+  },
+  {
+    "id": "CMP005",
+    "nome": "Pré-Setembro Papel Higiênico",
+    "familia_id": "FAM03",
+    "segmentos": [],
+    "inicio": "2026-08-03",
+    "fim": "2026-08-29",
+    "desconto_pct": 9,
+    "mecanica": "NÃO INICIADA — idem, testa o outro lado do filtro"
+  }
+]

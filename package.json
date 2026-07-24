@@ -1,0 +1,36 @@
+{
+  "name": "ribercon",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Sistema de ativação comercial — playbook diário para distribuidora em modelo comodato",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint",
+    "mock:gerar": "python scripts/gerar_mock_erp.py",
+    "mock:integracoes": "tsx scripts/gerar-mock-integracoes.ts",
+    "motor:testar": "tsx scripts/testar-motor.ts",
+    "db:push": "prisma db push",
+    "db:studio": "prisma studio"
+  },
+  "dependencies": {
+    "@prisma/client": "^6.2.0",
+    "next": "^15.1.0",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
+    "web-push": "^3.6.7"
+  },
+  "devDependencies": {
+    "@serwist/next": "^9.0.0",
+    "@types/node": "^22.10.0",
+    "@types/react": "^19.0.0",
+    "@types/web-push": "^3.6.4",
+    "autoprefixer": "^10.5.4",
+    "prisma": "^6.2.0",
+    "serwist": "^9.0.0",
+    "tailwindcss": "^3.4.0",
+    "tsx": "^4.19.0",
+    "typescript": "^5.7.0"
+  }
+}

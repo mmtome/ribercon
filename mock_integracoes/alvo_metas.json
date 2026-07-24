@@ -1,0 +1,34 @@
+[
+  {
+    "vendedor_id": "V01",
+    "competencia": "2026-07",
+    "meta_faturamento": 75295.01,
+    "realizado_faturamento": 50735.8,
+    "meta_positivacao": 19,
+    "realizado_positivacao": 19
+  },
+  {
+    "vendedor_id": "V02",
+    "competencia": "2026-07",
+    "meta_faturamento": 61767.62,
+    "realizado_faturamento": 40290.9,
+    "meta_positivacao": 16,
+    "realizado_positivacao": 18
+  },
+  {
+    "vendedor_id": "V03",
+    "competencia": "2026-07",
+    "meta_faturamento": 51523.91,
+    "realizado_faturamento": 33447.2,
+    "meta_positivacao": 17,
+    "realizado_positivacao": 16
+  },
+  {
+    "vendedor_id": "V04",
+    "competencia": "2026-07",
+    "meta_faturamento": 78985.67,
+    "realizado_faturamento": 50137,
+    "meta_positivacao": 26,
+    "realizado_positivacao": 21
+  }
+]

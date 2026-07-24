@@ -1,0 +1,22 @@
+[
+  {
+    "id": "V01",
+    "nome": "Vendedor 1",
+    "ativo": true
+  },
+  {
+    "id": "V02",
+    "nome": "Vendedor 2",
+    "ativo": true
+  },
+  {
+    "id": "V03",
+    "nome": "Vendedor 3",
+    "ativo": true
+  },
+  {
+    "id": "V04",
+    "nome": "Vendedor 4",
+    "ativo": true
+  }
+]

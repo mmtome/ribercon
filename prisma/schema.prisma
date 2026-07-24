@@ -1,0 +1,212 @@
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "postgresql"
+  url      = env("DATABASE_URL")
+}
+
+// ===========================================================================
+// ESPELHO DO ERP — escrito SÓ pelo job de sincronismo.
+// O ERP é a fonte da verdade. O sistema nunca escreve de volta nele.
+// ===========================================================================
+
+model Vendedor {
+  id        String     @id
+  nome      String
+  ativo     Boolean    @default(true)
+  clientes  Cliente[]
+  sinais    Sinal[]
+  interacoes Interacao[]
+  pushSubs  PushSubscription[]
+
+  @@map("vendedor")
+}
+
+model Familia {
+  id             String   @id
+  nome           String
+  tipoDispenser  String?  @map("tipo_dispenser")
+  produtos       Produto[]
+  itens          NotaItem[]
+  ciclos         CicloClienteFamilia[]
+  equipamentos   Equipamento[]
+  sinais         Sinal[]
+
+  @@map("familia")
+}
+
+model Produto {
+  id          String     @id
+  descricao   String
+  familiaId   String     @map("familia_id")
+  familia     Familia    @relation(fields: [familiaId], references: [id])
+  precoTabela Decimal    @map("preco_tabela") @db.Decimal(12, 2)
+  unidade     String
+  itens       NotaItem[]
+
+  @@map("produto")
+}
+
+model Cliente {
+  id             String   @id
+  cnpj           String?
+  razaoSocial    String?  @map("razao_social")
+  nomeFantasia   String?  @map("nome_fantasia")
+  segmento       String
+  cidade         String?
+  uf             String?
+  vendedorId     String?  @map("vendedor_id")
+  vendedor       Vendedor? @relation(fields: [vendedorId], references: [id])
+  dataCadastro   DateTime? @map("data_cadastro") @db.Date
+  ativo          Boolean  @default(true)
+  sincronizadoEm DateTime @default(now()) @map("sincronizado_em")
+
+  notas        Nota[]
+  equipamentos Equipamento[]
+  ciclos       CicloClienteFamilia[]
+  sinais       Sinal[]
+  interacoes   Interacao[]
+
+  @@index([vendedorId])
+  @@map("cliente")
+}
+
+model Nota {
+  id          String     @id
+  numero      String
+  clienteId   String     @map("cliente_id")
+  cliente     Cliente    @relation(fields: [clienteId], references: [id])
+  dataEmissao DateTime   @map("data_emissao") @db.Date
+  valorTotal  Decimal    @map("valor_total") @db.Decimal(12, 2)
+  itens       NotaItem[]
+
+  @@index([clienteId, dataEmissao])
+  @@map("nota")
+}
+
+model NotaItem {
+  id            BigInt  @id @default(autoincrement())
+  notaId        String  @map("nota_id")
+  nota          Nota    @relation(fields: [notaId], references: [id], onDelete: Cascade)
+  produtoId     String  @map("produto_id")
+  produto       Produto @relation(fields: [produtoId], references: [id])
+  familiaId     String  @map("familia_id")
+  familia       Familia @relation(fields: [familiaId], references: [id])
+  quantidade    Decimal @db.Decimal(12, 3)
+  valorUnitario Decimal @map("valor_unitario") @db.Decimal(12, 2)
+  valorTotal    Decimal @map("valor_total") @db.Decimal(12, 2)
+
+  @@index([familiaId])
+  @@map("nota_item")
+}
+
+model Equipamento {
+  id                      String   @id
+  clienteId               String   @map("cliente_id")
+  cliente                 Cliente  @relation(fields: [clienteId], references: [id])
+  tipo                    String
+  familiaConsumivelId     String   @map("familia_consumivel_id")
+  familiaConsumivel       Familia  @relation(fields: [familiaConsumivelId], references: [id])
+  numeroSerie             String?  @map("numero_serie")
+  quantidade              Int      @default(1)
+  dataInstalacao          DateTime? @map("data_instalacao") @db.Date
+  ultimaManutencao        DateTime? @map("ultima_manutencao") @db.Date
+  intervaloPreventivoDias Int      @default(180) @map("intervalo_preventivo_dias")
+  status                  String   @default("ativo")
+  sinais                  Sinal[]
+
+  @@index([clienteId])
+  @@map("equipamento")
+}
+
+// ===========================================================================
+// CALCULADO PELO MOTOR — recriado a cada rodada diária
+// ===========================================================================
+
+model CicloClienteFamilia {
+  clienteId    String   @map("cliente_id")
+  cliente      Cliente  @relation(fields: [clienteId], references: [id])
+  familiaId    String   @map("familia_id")
+  familia      Familia  @relation(fields: [familiaId], references: [id])
+  nCompras     Int      @map("n_compras")
+  medianaDias  Decimal  @map("mediana_dias") @db.Decimal(8, 2)
+  desvioDias   Decimal  @map("desvio_dias") @db.Decimal(8, 2)
+  /// 'proprio' = histórico do cliente · 'segmento' = estimado. Mostrar na tela:
+  /// é o que faz o vendedor confiar no número.
+  origem       String
+  ultimaCompra DateTime @map("ultima_compra") @db.Date
+  ticketMedio  Decimal  @map("ticket_medio") @db.Decimal(12, 2)
+  mediaRecente Decimal? @map("media_recente") @db.Decimal(8, 2)
+
+  @@id([clienteId, familiaId])
+  @@map("ciclo_cliente_familia")
+}
+
+model Sinal {
+  id            BigInt    @id @default(autoincrement())
+  /// recompra | atrasado | equip_ocioso | queda | preventiva | cadencia | recuperacao
+  tipo          String
+  clienteId     String    @map("cliente_id")
+  cliente       Cliente   @relation(fields: [clienteId], references: [id])
+  familiaId     String?   @map("familia_id")
+  familia       Familia?  @relation(fields: [familiaId], references: [id])
+  equipamentoId String?   @map("equipamento_id")
+  equipamento   Equipamento? @relation(fields: [equipamentoId], references: [id])
+  vendedorId    String    @map("vendedor_id")
+  vendedor      Vendedor  @relation(fields: [vendedorId], references: [id])
+  dataPrevista  DateTime? @map("data_prevista") @db.Date
+  diasDesvio    Int       @map("dias_desvio")
+  valorEsperado Decimal   @map("valor_esperado") @db.Decimal(12, 2)
+  score         Decimal   @db.Decimal(12, 4)
+  /// tudo que o card precisa para renderizar, sem nova consulta
+  motivo        Json
+  status        String    @default("aberto")
+  geradoEm      DateTime  @default(now()) @map("gerado_em")
+  interacoes    Interacao[]
+
+  /// garante idempotência: rodar o motor duas vezes no mesmo dia não duplica
+  @@unique([clienteId, familiaId, tipo, dataPrevista])
+  @@index([vendedorId, status, score])
+  @@map("sinal")
+}
+
+// ===========================================================================
+// REGISTRADO PELO VENDEDOR — este é o "CRM" de verdade
+// ===========================================================================
+
+model Interacao {
+  id           BigInt   @id @default(autoincrement())
+  /// uuid gerado no cliente. Torna o endpoint de sync idempotente — sem isso,
+  /// reconexão dupla no offline gera pedido duplicado.
+  uuid         String   @unique
+  sinalId      BigInt?  @map("sinal_id")
+  sinal        Sinal?   @relation(fields: [sinalId], references: [id])
+  clienteId    String   @map("cliente_id")
+  cliente      Cliente  @relation(fields: [clienteId], references: [id])
+  vendedorId   String   @map("vendedor_id")
+  vendedor     Vendedor @relation(fields: [vendedorId], references: [id])
+  /// comprou | vai_comprar | nao_atendeu | adiou | sem_necessidade | perdeu_concorrente
+  desfecho     String
+  valorPedido  Decimal? @map("valor_pedido") @db.Decimal(12, 2)
+  adiarPara    DateTime? @map("adiar_para") @db.Date
+  /// SEMPRE opcional. Campo de texto obrigatório é onde o CRM morre.
+  observacao   String?
+  registradoEm DateTime @default(now()) @map("registrado_em")
+
+  @@index([vendedorId, registradoEm])
+  @@map("interacao")
+}
+
+model PushSubscription {
+  id         BigInt   @id @default(autoincrement())
+  vendedorId String   @map("vendedor_id")
+  vendedor   Vendedor @relation(fields: [vendedorId], references: [id])
+  endpoint   String   @unique
+  p256dh     String
+  auth       String
+  criadoEm   DateTime @default(now()) @map("criado_em")
+
+  @@map("push_subscription")
+}

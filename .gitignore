@@ -1,0 +1,15 @@
+node_modules/
+.next/
+# mock_integracoes/ NÃO é ignorado de propósito: é dado de teste versionado,
+# igual a mock_erp/. É o que faz o resultado do motor ser comparável entre commits.
+out/
+build/
+.env
+.env*.local
+*.tsbuildinfo
+next-env.d.ts
+public/sw.js
+public/workbox-*.js
+__pycache__/
+*.pyc
+.DS_Store

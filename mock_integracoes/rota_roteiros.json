@@ -1,0 +1,1956 @@
+[
+  {
+    "vendedor_id": "V03",
+    "data": "2026-07-23",
+    "paradas": [
+      {
+        "cliente_id": "CLI0046",
+        "sequencia": 1,
+        "janela_inicio": "08:00",
+        "janela_fim": "08:45"
+      },
+      {
+        "cliente_id": "CLI0002",
+        "sequencia": 2,
+        "janela_inicio": "08:55",
+        "janela_fim": "09:40"
+      },
+      {
+        "cliente_id": "CLI0097",
+        "sequencia": 3,
+        "janela_inicio": "09:50",
+        "janela_fim": "10:35"
+      },
+      {
+        "cliente_id": "CLI0114",
+        "sequencia": 4,
+        "janela_inicio": "10:45",
+        "janela_fim": "11:30"
+      },
+      {
+        "cliente_id": "CLI0032",
+        "sequencia": 5,
+        "janela_inicio": "11:40",
+        "janela_fim": "12:25"
+      },
+      {
+        "cliente_id": "CLI0119",
+        "sequencia": 6,
+        "janela_inicio": "13:30",
+        "janela_fim": "14:15"
+      },
+      {
+        "cliente_id": "CLI0100",
+        "sequencia": 7,
+        "janela_inicio": "14:25",
+        "janela_fim": "15:10"
+      }
+    ],
+    "km_previsto": 82.8
+  },
+  {
+    "vendedor_id": "V01",
+    "data": "2026-07-23",
+    "paradas": [
+      {
+        "cliente_id": "CLI0053",
+        "sequencia": 1,
+        "janela_inicio": "08:00",
+        "janela_fim": "08:45"
+      },
+      {
+        "cliente_id": "CLI0091",
+        "sequencia": 2,
+        "janela_inicio": "08:55",
+        "janela_fim": "09:40"
+      },
+      {
+        "cliente_id": "CLI0089",
+        "sequencia": 3,
+        "janela_inicio": "09:50",
+        "janela_fim": "10:35"
+      },
+      {
+        "cliente_id": "CLI0007",
+        "sequencia": 4,
+        "janela_inicio": "10:45",
+        "janela_fim": "11:30"
+      },
+      {
+        "cliente_id": "CLI0039",
+        "sequencia": 5,
+        "janela_inicio": "11:40",
+        "janela_fim": "12:25"
+      },
+      {
+        "cliente_id": "CLI0045",
+        "sequencia": 6,
+        "janela_inicio": "13:30",
+        "janela_fim": "14:15"
+      },
+      {
+        "cliente_id": "CLI0055",
+        "sequencia": 7,
+        "janela_inicio": "14:25",
+        "janela_fim": "15:10"
+      }
+    ],
+    "km_previsto": 60.9
+  },
+  {
+    "vendedor_id": "V02",
+    "data": "2026-07-23",
+    "paradas": [
+      {
+        "cliente_id": "CLI0011",
+        "sequencia": 1,
+        "janela_inicio": "08:00",
+        "janela_fim": "08:45"
+      },
+      {
+        "cliente_id": "CLI0065",
+        "sequencia": 2,
+        "janela_inicio": "08:55",
+        "janela_fim": "09:40"
+      },
+      {
+        "cliente_id": "CLI0050",
+        "sequencia": 3,
+        "janela_inicio": "09:50",
+        "janela_fim": "10:35"
+      },
+      {
+        "cliente_id": "CLI0041",
+        "sequencia": 4,
+        "janela_inicio": "10:45",
+        "janela_fim": "11:30"
+      },
+      {
+        "cliente_id": "CLI0082",
+        "sequencia": 5,
+        "janela_inicio": "11:40",
+        "janela_fim": "12:25"
+      },
+      {
+        "cliente_id": "CLI0102",
+        "sequencia": 6,
+        "janela_inicio": "13:30",
+        "janela_fim": "14:15"
+      }
+    ],
+    "km_previsto": 65.8
+  },
+  {
+    "vendedor_id": "V04",
+    "data": "2026-07-23",
+    "paradas": [
+      {
+        "cliente_id": "CLI0030",
+        "sequencia": 1,
+        "janela_inicio": "08:00",
+        "janela_fim": "08:45"
+      },
+      {
+        "cliente_id": "CLI0040",
+        "sequencia": 2,
+        "janela_inicio": "08:55",
+        "janela_fim": "09:40"
+      },
+      {
+        "cliente_id": "CLI0069",
+        "sequencia": 3,
+        "janela_inicio": "09:50",
+        "janela_fim": "10:35"
+      },
+      {
+        "cliente_id": "CLI0014",
+        "sequencia": 4,
+        "janela_inicio": "10:45",
+        "janela_fim": "11:30"
+      },
+      {
+        "cliente_id": "CLI0067",
+        "sequencia": 5,
+        "janela_inicio": "11:40",
+        "janela_fim": "12:25"
+      },
+      {
+        "cliente_id": "CLI0085",
+        "sequencia": 6,
+        "janela_inicio": "13:30",
+        "janela_fim": "14:15"
+      }
+    ],
+    "km_previsto": 81.2
+  },
+  {
+    "vendedor_id": "V03",
+    "data": "2026-07-24",
+    "paradas": [
+      {
+        "cliente_id": "CLI0036",
+        "sequencia": 1,
+        "janela_inicio": "08:00",
+        "janela_fim": "08:45"
+      },
+      {
+        "cliente_id": "CLI0110",
+        "sequencia": 2,
+        "janela_inicio": "08:55",
+        "janela_fim": "09:40"
+      },
+      {
+        "cliente_id": "CLI0078",
+        "sequencia": 3,
+        "janela_inicio": "09:50",
+        "janela_fim": "10:35"
+      },
+      {
+        "cliente_id": "CLI0114",
+        "sequencia": 4,
+        "janela_inicio": "10:45",
+        "janela_fim": "11:30"
+      },
+      {
+        "cliente_id": "CLI0001",
+        "sequencia": 5,
+        "janela_inicio": "11:40",
+        "janela_fim": "12:25"
+      },
+      {
+        "cliente_id": "CLI0109",
+        "sequencia": 6,
+        "janela_inicio": "13:30",
+        "janela_fim": "14:15"
+      }
+    ],
+    "km_previsto": 50.9
+  },
+  {
+    "vendedor_id": "V01",
+    "data": "2026-07-24",
+    "paradas": [
+      {
+        "cliente_id": "CLI0117",
+        "sequencia": 1,
+        "janela_inicio": "08:00",
+        "janela_fim": "08:45"
+      },
+      {
+        "cliente_id": "CLI0006",
+        "sequencia": 2,
+        "janela_inicio": "08:55",
+        "janela_fim": "09:40"
+      },
+      {
+        "cliente_id": "CLI0037",
+        "sequencia": 3,
+        "janela_inicio": "09:50",
+        "janela_fim": "10:35"
+      },
+      {
+        "cliente_id": "CLI0018",
+        "sequencia": 4,
+        "janela_inicio": "10:45",
+        "janela_fim": "11:30"
+      },
+      {
+        "cliente_id": "CLI0089",
+        "sequencia": 5,
+        "janela_inicio": "11:40",
+        "janela_fim": "12:25"
+      },
+      {
+        "cliente_id": "CLI0028",
+        "sequencia": 6,
+        "janela_inicio": "13:30",
+        "janela_fim": "14:15"
+      },
+      {
+        "cliente_id": "CLI0087",
+        "sequencia": 7,
+        "janela_inicio": "14:25",
+        "janela_fim": "15:10"
+      },
+      {
+        "cliente_id": "CLI0031",
+        "sequencia": 8,
+        "janela_inicio": "15:20",
+        "janela_fim": "16:05"
+      },
+      {
+        "cliente_id": "CLI0054",
+        "sequencia": 9,
+        "janela_inicio": "16:15",
+        "janela_fim": "17:00"
+      },
+      {
+        "cliente_id": "CLI0015",
+        "sequencia": 10,
+        "janela_inicio": "17:10",
+        "janela_fim": "17:55"
+      },
+      {
+        "cliente_id": "CLI0107",
+        "sequencia": 11,
+        "janela_inicio": "18:05",
+        "janela_fim": "18:50"
+      },
+      {
+        "cliente_id": "CLI0088",
+        "sequencia": 12,
+        "janela_inicio": "19:00",
+        "janela_fim": "19:45"
+      },
+      {
+        "cliente_id": "CLI0023",
+        "sequencia": 13,
+        "janela_inicio": "19:55",
+        "janela_fim": "20:40"
+      }
+    ],
+    "km_previsto": 138.2
+  },
+  {
+    "vendedor_id": "V04",
+    "data": "2026-07-24",
+    "paradas": [
+      {
+        "cliente_id": "CLI0075",
+        "sequencia": 1,
+        "janela_inicio": "08:00",
+        "janela_fim": "08:45"
+      },
+      {
+        "cliente_id": "CLI0012",
+        "sequencia": 2,
+        "janela_inicio": "08:55",
+        "janela_fim": "09:40"
+      },
+      {
+        "cliente_id": "CLI0017",
+        "sequencia": 3,
+        "janela_inicio": "09:50",
+        "janela_fim": "10:35"
+      },
+      {
+        "cliente_id": "CLI0058",
+        "sequencia": 4,
+        "janela_inicio": "10:45",
+        "janela_fim": "11:30"
+      },
+      {
+        "cliente_id": "CLI0043",
+        "sequencia": 5,
+        "janela_inicio": "11:40",
+        "janela_fim": "12:25"
+      },
+      {
+        "cliente_id": "CLI0044",
+        "sequencia": 6,
+        "janela_inicio": "13:30",
+        "janela_fim": "14:15"
+      },
+      {
+        "cliente_id": "CLI0061",
+        "sequencia": 7,
+        "janela_inicio": "14:25",
+        "janela_fim": "15:10"
+      },
+      {
+        "cliente_id": "CLI0092",
+        "sequencia": 8,
+        "janela_inicio": "15:20",
+        "janela_fim": "16:05"
+      },
+      {
+        "cliente_id": "CLI0074",
+        "sequencia": 9,
+        "janela_inicio": "16:15",
+        "janela_fim": "17:00"
+      },
+      {
+        "cliente_id": "CLI0048",
+        "sequencia": 10,
+        "janela_inicio": "17:10",
+        "janela_fim": "17:55"
+      },
+      {
+        "cliente_id": "CLI0038",
+        "sequencia": 11,
+        "janela_inicio": "18:05",
+        "janela_fim": "18:50"
+      }
+    ],
+    "km_previsto": 114.9
+  },
+  {
+    "vendedor_id": "V02",
+    "data": "2026-07-24",
+    "paradas": [
+      {
+        "cliente_id": "CLI0073",
+        "sequencia": 1,
+        "janela_inicio": "08:00",
+        "janela_fim": "08:45"
+      },
+      {
+        "cliente_id": "CLI0095",
+        "sequencia": 2,
+        "janela_inicio": "08:55",
+        "janela_fim": "09:40"
+      },
+      {
+        "cliente_id": "CLI0112",
+        "sequencia": 3,
+        "janela_inicio": "09:50",
+        "janela_fim": "10:35"
+      },
+      {
+        "cliente_id": "CLI0076",
+        "sequencia": 4,
+        "janela_inicio": "10:45",
+        "janela_fim": "11:30"
+      },
+      {
+        "cliente_id": "CLI0081",
+        "sequencia": 5,
+        "janela_inicio": "11:40",
+        "janela_fim": "12:25"
+      }
+    ],
+    "km_previsto": 65.4
+  },
+  {
+    "vendedor_id": "V03",
+    "data": "2026-07-27",
+    "paradas": [
+      {
+        "cliente_id": "CLI0024",
+        "sequencia": 1,
+        "janela_inicio": "08:00",
+        "janela_fim": "08:45"
+      },
+      {
+        "cliente_id": "CLI0064",
+        "sequencia": 2,
+        "janela_inicio": "08:55",
+        "janela_fim": "09:40"
+      },
+      {
+        "cliente_id": "CLI0056",
+        "sequencia": 3,
+        "janela_inicio": "09:50",
+        "janela_fim": "10:35"
+      },
+      {
+        "cliente_id": "CLI0110",
+        "sequencia": 4,
+        "janela_inicio": "10:45",
+        "janela_fim": "11:30"
+      },
+      {
+        "cliente_id": "CLI0022",
+        "sequencia": 5,
+        "janela_inicio": "11:40",
+        "janela_fim": "12:25"
+      },
+      {
+        "cliente_id": "CLI0008",
+        "sequencia": 6,
+        "janela_inicio": "13:30",
+        "janela_fim": "14:15"
+      },
+      {
+        "cliente_id": "CLI0118",
+        "sequencia": 7,
+        "janela_inicio": "14:25",
+        "janela_fim": "15:10"
+      },
+      {
+        "cliente_id": "CLI0066",
+        "sequencia": 8,
+        "janela_inicio": "15:20",
+        "janela_fim": "16:05"
+      },
+      {
+        "cliente_id": "CLI0035",
+        "sequencia": 9,
+        "janela_inicio": "16:15",
+        "janela_fim": "17:00"
+      },
+      {
+        "cliente_id": "CLI0059",
+        "sequencia": 10,
+        "janela_inicio": "17:10",
+        "janela_fim": "17:55"
+      }
+    ],
+    "km_previsto": 120.4
+  },
+  {
+    "vendedor_id": "V04",
+    "data": "2026-07-27",
+    "paradas": [
+      {
+        "cliente_id": "CLI0113",
+        "sequencia": 1,
+        "janela_inicio": "08:00",
+        "janela_fim": "08:45"
+      },
+      {
+        "cliente_id": "CLI0104",
+        "sequencia": 2,
+        "janela_inicio": "08:55",
+        "janela_fim": "09:40"
+      },
+      {
+        "cliente_id": "CLI0014",
+        "sequencia": 3,
+        "janela_inicio": "09:50",
+        "janela_fim": "10:35"
+      },
+      {
+        "cliente_id": "CLI0061",
+        "sequencia": 4,
+        "janela_inicio": "10:45",
+        "janela_fim": "11:30"
+      },
+      {
+        "cliente_id": "CLI0086",
+        "sequencia": 5,
+        "janela_inicio": "11:40",
+        "janela_fim": "12:25"
+      },
+      {
+        "cliente_id": "CLI0074",
+        "sequencia": 6,
+        "janela_inicio": "13:30",
+        "janela_fim": "14:15"
+      }
+    ],
+    "km_previsto": 80.5
+  },
+  {
+    "vendedor_id": "V01",
+    "data": "2026-07-27",
+    "paradas": [
+      {
+        "cliente_id": "CLI0018",
+        "sequencia": 1,
+        "janela_inicio": "08:00",
+        "janela_fim": "08:45"
+      },
+      {
+        "cliente_id": "CLI0028",
+        "sequencia": 2,
+        "janela_inicio": "08:55",
+        "janela_fim": "09:40"
+      },
+      {
+        "cliente_id": "CLI0015",
+        "sequencia": 3,
+        "janela_inicio": "09:50",
+        "janela_fim": "10:35"
+      },
+      {
+        "cliente_id": "CLI0088",
+        "sequencia": 4,
+        "janela_inicio": "10:45",
+        "janela_fim": "11:30"
+      },
+      {
+        "cliente_id": "CLI0055",
+        "sequencia": 5,
+        "janela_inicio": "11:40",
+        "janela_fim": "12:25"
+      },
+      {
+        "cliente_id": "CLI0023",
+        "sequencia": 6,
+        "janela_inicio": "13:30",
+        "janela_fim": "14:15"
+      }
+    ],
+    "km_previsto": 65.9
+  },
+  {
+    "vendedor_id": "V02",
+    "data": "2026-07-27",
+    "paradas": [
+      {
+        "cliente_id": "CLI0026",
+        "sequencia": 1,
+        "janela_inicio": "08:00",
+        "janela_fim": "08:45"
+      },
+      {
+        "cliente_id": "CLI0090",
+        "sequencia": 2,
+        "janela_inicio": "08:55",
+        "janela_fim": "09:40"
+      },
+      {
+        "cliente_id": "CLI0093",
+        "sequencia": 3,
+        "janela_inicio": "09:50",
+        "janela_fim": "10:35"
+      },
+      {
+        "cliente_id": "CLI0115",
+        "sequencia": 4,
+        "janela_inicio": "10:45",
+        "janela_fim": "11:30"
+      },
+      {
+        "cliente_id": "CLI0099",
+        "sequencia": 5,
+        "janela_inicio": "11:40",
+        "janela_fim": "12:25"
+      }
+    ],
+    "km_previsto": 67.1
+  },
+  {
+    "vendedor_id": "V03",
+    "data": "2026-07-28",
+    "paradas": [
+      {
+        "cliente_id": "CLI0064",
+        "sequencia": 1,
+        "janela_inicio": "08:00",
+        "janela_fim": "08:45"
+      },
+      {
+        "cliente_id": "CLI0046",
+        "sequencia": 2,
+        "janela_inicio": "08:55",
+        "janela_fim": "09:40"
+      },
+      {
+        "cliente_id": "CLI0002",
+        "sequencia": 3,
+        "janela_inicio": "09:50",
+        "janela_fim": "10:35"
+      },
+      {
+        "cliente_id": "CLI0033",
+        "sequencia": 4,
+        "janela_inicio": "10:45",
+        "janela_fim": "11:30"
+      },
+      {
+        "cliente_id": "CLI0060",
+        "sequencia": 5,
+        "janela_inicio": "11:40",
+        "janela_fim": "12:25"
+      },
+      {
+        "cliente_id": "CLI0084",
+        "sequencia": 6,
+        "janela_inicio": "13:30",
+        "janela_fim": "14:15"
+      },
+      {
+        "cliente_id": "CLI0035",
+        "sequencia": 7,
+        "janela_inicio": "14:25",
+        "janela_fim": "15:10"
+      },
+      {
+        "cliente_id": "CLI0100",
+        "sequencia": 8,
+        "janela_inicio": "15:20",
+        "janela_fim": "16:05"
+      },
+      {
+        "cliente_id": "CLI0120",
+        "sequencia": 9,
+        "janela_inicio": "16:15",
+        "janela_fim": "17:00"
+      }
+    ],
+    "km_previsto": 122
+  },
+  {
+    "vendedor_id": "V01",
+    "data": "2026-07-28",
+    "paradas": [
+      {
+        "cliente_id": "CLI0108",
+        "sequencia": 1,
+        "janela_inicio": "08:00",
+        "janela_fim": "08:45"
+      },
+      {
+        "cliente_id": "CLI0003",
+        "sequencia": 2,
+        "janela_inicio": "08:55",
+        "janela_fim": "09:40"
+      },
+      {
+        "cliente_id": "CLI0053",
+        "sequencia": 3,
+        "janela_inicio": "09:50",
+        "janela_fim": "10:35"
+      },
+      {
+        "cliente_id": "CLI0010",
+        "sequencia": 4,
+        "janela_inicio": "10:45",
+        "janela_fim": "11:30"
+      },
+      {
+        "cliente_id": "CLI0005",
+        "sequencia": 5,
+        "janela_inicio": "11:40",
+        "janela_fim": "12:25"
+      },
+      {
+        "cliente_id": "CLI0052",
+        "sequencia": 6,
+        "janela_inicio": "13:30",
+        "janela_fim": "14:15"
+      },
+      {
+        "cliente_id": "CLI0031",
+        "sequencia": 7,
+        "janela_inicio": "14:25",
+        "janela_fim": "15:10"
+      },
+      {
+        "cliente_id": "CLI0079",
+        "sequencia": 8,
+        "janela_inicio": "15:20",
+        "janela_fim": "16:05"
+      }
+    ],
+    "km_previsto": 87.1
+  },
+  {
+    "vendedor_id": "V04",
+    "data": "2026-07-28",
+    "paradas": [
+      {
+        "cliente_id": "CLI0030",
+        "sequencia": 1,
+        "janela_inicio": "08:00",
+        "janela_fim": "08:45"
+      },
+      {
+        "cliente_id": "CLI0098",
+        "sequencia": 2,
+        "janela_inicio": "08:55",
+        "janela_fim": "09:40"
+      },
+      {
+        "cliente_id": "CLI0021",
+        "sequencia": 3,
+        "janela_inicio": "09:50",
+        "janela_fim": "10:35"
+      },
+      {
+        "cliente_id": "CLI0017",
+        "sequencia": 4,
+        "janela_inicio": "10:45",
+        "janela_fim": "11:30"
+      },
+      {
+        "cliente_id": "CLI0016",
+        "sequencia": 5,
+        "janela_inicio": "11:40",
+        "janela_fim": "12:25"
+      },
+      {
+        "cliente_id": "CLI0104",
+        "sequencia": 6,
+        "janela_inicio": "13:30",
+        "janela_fim": "14:15"
+      },
+      {
+        "cliente_id": "CLI0034",
+        "sequencia": 7,
+        "janela_inicio": "14:25",
+        "janela_fim": "15:10"
+      },
+      {
+        "cliente_id": "CLI0101",
+        "sequencia": 8,
+        "janela_inicio": "15:20",
+        "janela_fim": "16:05"
+      },
+      {
+        "cliente_id": "CLI0057",
+        "sequencia": 9,
+        "janela_inicio": "16:15",
+        "janela_fim": "17:00"
+      },
+      {
+        "cliente_id": "CLI0077",
+        "sequencia": 10,
+        "janela_inicio": "17:10",
+        "janela_fim": "17:55"
+      },
+      {
+        "cliente_id": "CLI0092",
+        "sequencia": 11,
+        "janela_inicio": "18:05",
+        "janela_fim": "18:50"
+      },
+      {
+        "cliente_id": "CLI0048",
+        "sequencia": 12,
+        "janela_inicio": "19:00",
+        "janela_fim": "19:45"
+      },
+      {
+        "cliente_id": "CLI0085",
+        "sequencia": 13,
+        "janela_inicio": "19:55",
+        "janela_fim": "20:40"
+      },
+      {
+        "cliente_id": "CLI0051",
+        "sequencia": 14,
+        "janela_inicio": "20:50",
+        "janela_fim": "21:35"
+      }
+    ],
+    "km_previsto": 132.3
+  },
+  {
+    "vendedor_id": "V02",
+    "data": "2026-07-28",
+    "paradas": [
+      {
+        "cliente_id": "CLI0073",
+        "sequencia": 1,
+        "janela_inicio": "08:00",
+        "janela_fim": "08:45"
+      },
+      {
+        "cliente_id": "CLI0042",
+        "sequencia": 2,
+        "janela_inicio": "08:55",
+        "janela_fim": "09:40"
+      },
+      {
+        "cliente_id": "CLI0050",
+        "sequencia": 3,
+        "janela_inicio": "09:50",
+        "janela_fim": "10:35"
+      },
+      {
+        "cliente_id": "CLI0095",
+        "sequencia": 4,
+        "janela_inicio": "10:45",
+        "janela_fim": "11:30"
+      },
+      {
+        "cliente_id": "CLI0049",
+        "sequencia": 5,
+        "janela_inicio": "11:40",
+        "janela_fim": "12:25"
+      },
+      {
+        "cliente_id": "CLI0102",
+        "sequencia": 6,
+        "janela_inicio": "13:30",
+        "janela_fim": "14:15"
+      }
+    ],
+    "km_previsto": 64.9
+  },
+  {
+    "vendedor_id": "V03",
+    "data": "2026-07-29",
+    "paradas": [
+      {
+        "cliente_id": "CLI0033",
+        "sequencia": 1,
+        "janela_inicio": "08:00",
+        "janela_fim": "08:45"
+      },
+      {
+        "cliente_id": "CLI0060",
+        "sequencia": 2,
+        "janela_inicio": "08:55",
+        "janela_fim": "09:40"
+      },
+      {
+        "cliente_id": "CLI0004",
+        "sequencia": 3,
+        "janela_inicio": "09:50",
+        "janela_fim": "10:35"
+      },
+      {
+        "cliente_id": "CLI0084",
+        "sequencia": 4,
+        "janela_inicio": "10:45",
+        "janela_fim": "11:30"
+      },
+      {
+        "cliente_id": "CLI0119",
+        "sequencia": 5,
+        "janela_inicio": "11:40",
+        "janela_fim": "12:25"
+      },
+      {
+        "cliente_id": "CLI0120",
+        "sequencia": 6,
+        "janela_inicio": "13:30",
+        "janela_fim": "14:15"
+      }
+    ],
+    "km_previsto": 67.5
+  },
+  {
+    "vendedor_id": "V02",
+    "data": "2026-07-29",
+    "paradas": [
+      {
+        "cliente_id": "CLI0026",
+        "sequencia": 1,
+        "janela_inicio": "08:00",
+        "janela_fim": "08:45"
+      },
+      {
+        "cliente_id": "CLI0011",
+        "sequencia": 2,
+        "janela_inicio": "08:55",
+        "janela_fim": "09:40"
+      },
+      {
+        "cliente_id": "CLI0093",
+        "sequencia": 3,
+        "janela_inicio": "09:50",
+        "janela_fim": "10:35"
+      },
+      {
+        "cliente_id": "CLI0042",
+        "sequencia": 4,
+        "janela_inicio": "10:45",
+        "janela_fim": "11:30"
+      },
+      {
+        "cliente_id": "CLI0063",
+        "sequencia": 5,
+        "janela_inicio": "11:40",
+        "janela_fim": "12:25"
+      },
+      {
+        "cliente_id": "CLI0041",
+        "sequencia": 6,
+        "janela_inicio": "13:30",
+        "janela_fim": "14:15"
+      },
+      {
+        "cliente_id": "CLI0080",
+        "sequencia": 7,
+        "janela_inicio": "14:25",
+        "janela_fim": "15:10"
+      },
+      {
+        "cliente_id": "CLI0112",
+        "sequencia": 8,
+        "janela_inicio": "15:20",
+        "janela_fim": "16:05"
+      },
+      {
+        "cliente_id": "CLI0099",
+        "sequencia": 9,
+        "janela_inicio": "16:15",
+        "janela_fim": "17:00"
+      }
+    ],
+    "km_previsto": 95
+  },
+  {
+    "vendedor_id": "V01",
+    "data": "2026-07-29",
+    "paradas": [
+      {
+        "cliente_id": "CLI0037",
+        "sequencia": 1,
+        "janela_inicio": "08:00",
+        "janela_fim": "08:45"
+      },
+      {
+        "cliente_id": "CLI0013",
+        "sequencia": 2,
+        "janela_inicio": "08:55",
+        "janela_fim": "09:40"
+      },
+      {
+        "cliente_id": "CLI0111",
+        "sequencia": 3,
+        "janela_inicio": "09:50",
+        "janela_fim": "10:35"
+      },
+      {
+        "cliente_id": "CLI0029",
+        "sequencia": 4,
+        "janela_inicio": "10:45",
+        "janela_fim": "11:30"
+      },
+      {
+        "cliente_id": "CLI0025",
+        "sequencia": 5,
+        "janela_inicio": "11:40",
+        "janela_fim": "12:25"
+      },
+      {
+        "cliente_id": "CLI0071",
+        "sequencia": 6,
+        "janela_inicio": "13:30",
+        "janela_fim": "14:15"
+      },
+      {
+        "cliente_id": "CLI0106",
+        "sequencia": 7,
+        "janela_inicio": "14:25",
+        "janela_fim": "15:10"
+      }
+    ],
+    "km_previsto": 60.6
+  },
+  {
+    "vendedor_id": "V04",
+    "data": "2026-07-29",
+    "paradas": [
+      {
+        "cliente_id": "CLI0083",
+        "sequencia": 1,
+        "janela_inicio": "08:00",
+        "janela_fim": "08:45"
+      },
+      {
+        "cliente_id": "CLI0113",
+        "sequencia": 2,
+        "janela_inicio": "08:55",
+        "janela_fim": "09:40"
+      },
+      {
+        "cliente_id": "CLI0016",
+        "sequencia": 3,
+        "janela_inicio": "09:50",
+        "janela_fim": "10:35"
+      },
+      {
+        "cliente_id": "CLI0058",
+        "sequencia": 4,
+        "janela_inicio": "10:45",
+        "janela_fim": "11:30"
+      },
+      {
+        "cliente_id": "CLI0101",
+        "sequencia": 5,
+        "janela_inicio": "11:40",
+        "janela_fim": "12:25"
+      },
+      {
+        "cliente_id": "CLI0043",
+        "sequencia": 6,
+        "janela_inicio": "13:30",
+        "janela_fim": "14:15"
+      },
+      {
+        "cliente_id": "CLI0057",
+        "sequencia": 7,
+        "janela_inicio": "14:25",
+        "janela_fim": "15:10"
+      },
+      {
+        "cliente_id": "CLI0051",
+        "sequencia": 8,
+        "janela_inicio": "15:20",
+        "janela_fim": "16:05"
+      }
+    ],
+    "km_previsto": 93.1
+  },
+  {
+    "vendedor_id": "V03",
+    "data": "2026-07-30",
+    "paradas": [
+      {
+        "cliente_id": "CLI0046",
+        "sequencia": 1,
+        "janela_inicio": "08:00",
+        "janela_fim": "08:45"
+      },
+      {
+        "cliente_id": "CLI0002",
+        "sequencia": 2,
+        "janela_inicio": "08:55",
+        "janela_fim": "09:40"
+      },
+      {
+        "cliente_id": "CLI0097",
+        "sequencia": 3,
+        "janela_inicio": "09:50",
+        "janela_fim": "10:35"
+      },
+      {
+        "cliente_id": "CLI0114",
+        "sequencia": 4,
+        "janela_inicio": "10:45",
+        "janela_fim": "11:30"
+      },
+      {
+        "cliente_id": "CLI0032",
+        "sequencia": 5,
+        "janela_inicio": "11:40",
+        "janela_fim": "12:25"
+      },
+      {
+        "cliente_id": "CLI0100",
+        "sequencia": 6,
+        "janela_inicio": "13:30",
+        "janela_fim": "14:15"
+      }
+    ],
+    "km_previsto": 47.2
+  },
+  {
+    "vendedor_id": "V01",
+    "data": "2026-07-30",
+    "paradas": [
+      {
+        "cliente_id": "CLI0053",
+        "sequencia": 1,
+        "janela_inicio": "08:00",
+        "janela_fim": "08:45"
+      },
+      {
+        "cliente_id": "CLI0091",
+        "sequencia": 2,
+        "janela_inicio": "08:55",
+        "janela_fim": "09:40"
+      },
+      {
+        "cliente_id": "CLI0089",
+        "sequencia": 3,
+        "janela_inicio": "09:50",
+        "janela_fim": "10:35"
+      },
+      {
+        "cliente_id": "CLI0007",
+        "sequencia": 4,
+        "janela_inicio": "10:45",
+        "janela_fim": "11:30"
+      },
+      {
+        "cliente_id": "CLI0039",
+        "sequencia": 5,
+        "janela_inicio": "11:40",
+        "janela_fim": "12:25"
+      },
+      {
+        "cliente_id": "CLI0055",
+        "sequencia": 6,
+        "janela_inicio": "13:30",
+        "janela_fim": "14:15"
+      }
+    ],
+    "km_previsto": 73.9
+  },
+  {
+    "vendedor_id": "V02",
+    "data": "2026-07-30",
+    "paradas": [
+      {
+        "cliente_id": "CLI0011",
+        "sequencia": 1,
+        "janela_inicio": "08:00",
+        "janela_fim": "08:45"
+      },
+      {
+        "cliente_id": "CLI0065",
+        "sequencia": 2,
+        "janela_inicio": "08:55",
+        "janela_fim": "09:40"
+      },
+      {
+        "cliente_id": "CLI0082",
+        "sequencia": 3,
+        "janela_inicio": "09:50",
+        "janela_fim": "10:35"
+      },
+      {
+        "cliente_id": "CLI0102",
+        "sequencia": 4,
+        "janela_inicio": "10:45",
+        "janela_fim": "11:30"
+      }
+    ],
+    "km_previsto": 29.5
+  },
+  {
+    "vendedor_id": "V04",
+    "data": "2026-07-30",
+    "paradas": [
+      {
+        "cliente_id": "CLI0030",
+        "sequencia": 1,
+        "janela_inicio": "08:00",
+        "janela_fim": "08:45"
+      },
+      {
+        "cliente_id": "CLI0040",
+        "sequencia": 2,
+        "janela_inicio": "08:55",
+        "janela_fim": "09:40"
+      },
+      {
+        "cliente_id": "CLI0014",
+        "sequencia": 3,
+        "janela_inicio": "09:50",
+        "janela_fim": "10:35"
+      },
+      {
+        "cliente_id": "CLI0067",
+        "sequencia": 4,
+        "janela_inicio": "10:45",
+        "janela_fim": "11:30"
+      },
+      {
+        "cliente_id": "CLI0085",
+        "sequencia": 5,
+        "janela_inicio": "11:40",
+        "janela_fim": "12:25"
+      }
+    ],
+    "km_previsto": 38.6
+  },
+  {
+    "vendedor_id": "V03",
+    "data": "2026-07-31",
+    "paradas": [
+      {
+        "cliente_id": "CLI0036",
+        "sequencia": 1,
+        "janela_inicio": "08:00",
+        "janela_fim": "08:45"
+      },
+      {
+        "cliente_id": "CLI0110",
+        "sequencia": 2,
+        "janela_inicio": "08:55",
+        "janela_fim": "09:40"
+      },
+      {
+        "cliente_id": "CLI0114",
+        "sequencia": 3,
+        "janela_inicio": "09:50",
+        "janela_fim": "10:35"
+      },
+      {
+        "cliente_id": "CLI0001",
+        "sequencia": 4,
+        "janela_inicio": "10:45",
+        "janela_fim": "11:30"
+      },
+      {
+        "cliente_id": "CLI0109",
+        "sequencia": 5,
+        "janela_inicio": "11:40",
+        "janela_fim": "12:25"
+      }
+    ],
+    "km_previsto": 68.3
+  },
+  {
+    "vendedor_id": "V01",
+    "data": "2026-07-31",
+    "paradas": [
+      {
+        "cliente_id": "CLI0117",
+        "sequencia": 1,
+        "janela_inicio": "08:00",
+        "janela_fim": "08:45"
+      },
+      {
+        "cliente_id": "CLI0006",
+        "sequencia": 2,
+        "janela_inicio": "08:55",
+        "janela_fim": "09:40"
+      },
+      {
+        "cliente_id": "CLI0037",
+        "sequencia": 3,
+        "janela_inicio": "09:50",
+        "janela_fim": "10:35"
+      },
+      {
+        "cliente_id": "CLI0089",
+        "sequencia": 4,
+        "janela_inicio": "10:45",
+        "janela_fim": "11:30"
+      },
+      {
+        "cliente_id": "CLI0028",
+        "sequencia": 5,
+        "janela_inicio": "11:40",
+        "janela_fim": "12:25"
+      },
+      {
+        "cliente_id": "CLI0087",
+        "sequencia": 6,
+        "janela_inicio": "13:30",
+        "janela_fim": "14:15"
+      },
+      {
+        "cliente_id": "CLI0031",
+        "sequencia": 7,
+        "janela_inicio": "14:25",
+        "janela_fim": "15:10"
+      },
+      {
+        "cliente_id": "CLI0054",
+        "sequencia": 8,
+        "janela_inicio": "15:20",
+        "janela_fim": "16:05"
+      },
+      {
+        "cliente_id": "CLI0015",
+        "sequencia": 9,
+        "janela_inicio": "16:15",
+        "janela_fim": "17:00"
+      },
+      {
+        "cliente_id": "CLI0088",
+        "sequencia": 10,
+        "janela_inicio": "17:10",
+        "janela_fim": "17:55"
+      },
+      {
+        "cliente_id": "CLI0023",
+        "sequencia": 11,
+        "janela_inicio": "18:05",
+        "janela_fim": "18:50"
+      }
+    ],
+    "km_previsto": 81.8
+  },
+  {
+    "vendedor_id": "V04",
+    "data": "2026-07-31",
+    "paradas": [
+      {
+        "cliente_id": "CLI0075",
+        "sequencia": 1,
+        "janela_inicio": "08:00",
+        "janela_fim": "08:45"
+      },
+      {
+        "cliente_id": "CLI0012",
+        "sequencia": 2,
+        "janela_inicio": "08:55",
+        "janela_fim": "09:40"
+      },
+      {
+        "cliente_id": "CLI0058",
+        "sequencia": 3,
+        "janela_inicio": "09:50",
+        "janela_fim": "10:35"
+      },
+      {
+        "cliente_id": "CLI0043",
+        "sequencia": 4,
+        "janela_inicio": "10:45",
+        "janela_fim": "11:30"
+      },
+      {
+        "cliente_id": "CLI0061",
+        "sequencia": 5,
+        "janela_inicio": "11:40",
+        "janela_fim": "12:25"
+      },
+      {
+        "cliente_id": "CLI0092",
+        "sequencia": 6,
+        "janela_inicio": "13:30",
+        "janela_fim": "14:15"
+      },
+      {
+        "cliente_id": "CLI0048",
+        "sequencia": 7,
+        "janela_inicio": "14:25",
+        "janela_fim": "15:10"
+      }
+    ],
+    "km_previsto": 48.2
+  },
+  {
+    "vendedor_id": "V02",
+    "data": "2026-07-31",
+    "paradas": [
+      {
+        "cliente_id": "CLI0073",
+        "sequencia": 1,
+        "janela_inicio": "08:00",
+        "janela_fim": "08:45"
+      },
+      {
+        "cliente_id": "CLI0095",
+        "sequencia": 2,
+        "janela_inicio": "08:55",
+        "janela_fim": "09:40"
+      },
+      {
+        "cliente_id": "CLI0112",
+        "sequencia": 3,
+        "janela_inicio": "09:50",
+        "janela_fim": "10:35"
+      },
+      {
+        "cliente_id": "CLI0076",
+        "sequencia": 4,
+        "janela_inicio": "10:45",
+        "janela_fim": "11:30"
+      }
+    ],
+    "km_previsto": 49.2
+  },
+  {
+    "vendedor_id": "V03",
+    "data": "2026-08-03",
+    "paradas": [
+      {
+        "cliente_id": "CLI0024",
+        "sequencia": 1,
+        "janela_inicio": "08:00",
+        "janela_fim": "08:45"
+      },
+      {
+        "cliente_id": "CLI0064",
+        "sequencia": 2,
+        "janela_inicio": "08:55",
+        "janela_fim": "09:40"
+      },
+      {
+        "cliente_id": "CLI0056",
+        "sequencia": 3,
+        "janela_inicio": "09:50",
+        "janela_fim": "10:35"
+      },
+      {
+        "cliente_id": "CLI0110",
+        "sequencia": 4,
+        "janela_inicio": "10:45",
+        "janela_fim": "11:30"
+      },
+      {
+        "cliente_id": "CLI0022",
+        "sequencia": 5,
+        "janela_inicio": "11:40",
+        "janela_fim": "12:25"
+      },
+      {
+        "cliente_id": "CLI0008",
+        "sequencia": 6,
+        "janela_inicio": "13:30",
+        "janela_fim": "14:15"
+      },
+      {
+        "cliente_id": "CLI0118",
+        "sequencia": 7,
+        "janela_inicio": "14:25",
+        "janela_fim": "15:10"
+      },
+      {
+        "cliente_id": "CLI0066",
+        "sequencia": 8,
+        "janela_inicio": "15:20",
+        "janela_fim": "16:05"
+      },
+      {
+        "cliente_id": "CLI0035",
+        "sequencia": 9,
+        "janela_inicio": "16:15",
+        "janela_fim": "17:00"
+      },
+      {
+        "cliente_id": "CLI0059",
+        "sequencia": 10,
+        "janela_inicio": "17:10",
+        "janela_fim": "17:55"
+      }
+    ],
+    "km_previsto": 77
+  },
+  {
+    "vendedor_id": "V04",
+    "data": "2026-08-03",
+    "paradas": [
+      {
+        "cliente_id": "CLI0113",
+        "sequencia": 1,
+        "janela_inicio": "08:00",
+        "janela_fim": "08:45"
+      },
+      {
+        "cliente_id": "CLI0104",
+        "sequencia": 2,
+        "janela_inicio": "08:55",
+        "janela_fim": "09:40"
+      },
+      {
+        "cliente_id": "CLI0014",
+        "sequencia": 3,
+        "janela_inicio": "09:50",
+        "janela_fim": "10:35"
+      },
+      {
+        "cliente_id": "CLI0061",
+        "sequencia": 4,
+        "janela_inicio": "10:45",
+        "janela_fim": "11:30"
+      },
+      {
+        "cliente_id": "CLI0086",
+        "sequencia": 5,
+        "janela_inicio": "11:40",
+        "janela_fim": "12:25"
+      }
+    ],
+    "km_previsto": 67.3
+  },
+  {
+    "vendedor_id": "V01",
+    "data": "2026-08-03",
+    "paradas": [
+      {
+        "cliente_id": "CLI0028",
+        "sequencia": 1,
+        "janela_inicio": "08:00",
+        "janela_fim": "08:45"
+      },
+      {
+        "cliente_id": "CLI0015",
+        "sequencia": 2,
+        "janela_inicio": "08:55",
+        "janela_fim": "09:40"
+      },
+      {
+        "cliente_id": "CLI0088",
+        "sequencia": 3,
+        "janela_inicio": "09:50",
+        "janela_fim": "10:35"
+      },
+      {
+        "cliente_id": "CLI0055",
+        "sequencia": 4,
+        "janela_inicio": "10:45",
+        "janela_fim": "11:30"
+      },
+      {
+        "cliente_id": "CLI0023",
+        "sequencia": 5,
+        "janela_inicio": "11:40",
+        "janela_fim": "12:25"
+      }
+    ],
+    "km_previsto": 48.7
+  },
+  {
+    "vendedor_id": "V02",
+    "data": "2026-08-03",
+    "paradas": [
+      {
+        "cliente_id": "CLI0026",
+        "sequencia": 1,
+        "janela_inicio": "08:00",
+        "janela_fim": "08:45"
+      },
+      {
+        "cliente_id": "CLI0093",
+        "sequencia": 2,
+        "janela_inicio": "08:55",
+        "janela_fim": "09:40"
+      },
+      {
+        "cliente_id": "CLI0115",
+        "sequencia": 3,
+        "janela_inicio": "09:50",
+        "janela_fim": "10:35"
+      },
+      {
+        "cliente_id": "CLI0099",
+        "sequencia": 4,
+        "janela_inicio": "10:45",
+        "janela_fim": "11:30"
+      }
+    ],
+    "km_previsto": 56
+  },
+  {
+    "vendedor_id": "V03",
+    "data": "2026-08-04",
+    "paradas": [
+      {
+        "cliente_id": "CLI0064",
+        "sequencia": 1,
+        "janela_inicio": "08:00",
+        "janela_fim": "08:45"
+      },
+      {
+        "cliente_id": "CLI0046",
+        "sequencia": 2,
+        "janela_inicio": "08:55",
+        "janela_fim": "09:40"
+      },
+      {
+        "cliente_id": "CLI0002",
+        "sequencia": 3,
+        "janela_inicio": "09:50",
+        "janela_fim": "10:35"
+      },
+      {
+        "cliente_id": "CLI0033",
+        "sequencia": 4,
+        "janela_inicio": "10:45",
+        "janela_fim": "11:30"
+      },
+      {
+        "cliente_id": "CLI0060",
+        "sequencia": 5,
+        "janela_inicio": "11:40",
+        "janela_fim": "12:25"
+      },
+      {
+        "cliente_id": "CLI0084",
+        "sequencia": 6,
+        "janela_inicio": "13:30",
+        "janela_fim": "14:15"
+      },
+      {
+        "cliente_id": "CLI0035",
+        "sequencia": 7,
+        "janela_inicio": "14:25",
+        "janela_fim": "15:10"
+      },
+      {
+        "cliente_id": "CLI0100",
+        "sequencia": 8,
+        "janela_inicio": "15:20",
+        "janela_fim": "16:05"
+      },
+      {
+        "cliente_id": "CLI0120",
+        "sequencia": 9,
+        "janela_inicio": "16:15",
+        "janela_fim": "17:00"
+      }
+    ],
+    "km_previsto": 124.5
+  },
+  {
+    "vendedor_id": "V01",
+    "data": "2026-08-04",
+    "paradas": [
+      {
+        "cliente_id": "CLI0108",
+        "sequencia": 1,
+        "janela_inicio": "08:00",
+        "janela_fim": "08:45"
+      },
+      {
+        "cliente_id": "CLI0053",
+        "sequencia": 2,
+        "janela_inicio": "08:55",
+        "janela_fim": "09:40"
+      },
+      {
+        "cliente_id": "CLI0005",
+        "sequencia": 3,
+        "janela_inicio": "09:50",
+        "janela_fim": "10:35"
+      },
+      {
+        "cliente_id": "CLI0052",
+        "sequencia": 4,
+        "janela_inicio": "10:45",
+        "janela_fim": "11:30"
+      },
+      {
+        "cliente_id": "CLI0031",
+        "sequencia": 5,
+        "janela_inicio": "11:40",
+        "janela_fim": "12:25"
+      },
+      {
+        "cliente_id": "CLI0079",
+        "sequencia": 6,
+        "janela_inicio": "13:30",
+        "janela_fim": "14:15"
+      }
+    ],
+    "km_previsto": 83.5
+  },
+  {
+    "vendedor_id": "V04",
+    "data": "2026-08-04",
+    "paradas": [
+      {
+        "cliente_id": "CLI0030",
+        "sequencia": 1,
+        "janela_inicio": "08:00",
+        "janela_fim": "08:45"
+      },
+      {
+        "cliente_id": "CLI0098",
+        "sequencia": 2,
+        "janela_inicio": "08:55",
+        "janela_fim": "09:40"
+      },
+      {
+        "cliente_id": "CLI0021",
+        "sequencia": 3,
+        "janela_inicio": "09:50",
+        "janela_fim": "10:35"
+      },
+      {
+        "cliente_id": "CLI0104",
+        "sequencia": 4,
+        "janela_inicio": "10:45",
+        "janela_fim": "11:30"
+      },
+      {
+        "cliente_id": "CLI0034",
+        "sequencia": 5,
+        "janela_inicio": "11:40",
+        "janela_fim": "12:25"
+      },
+      {
+        "cliente_id": "CLI0057",
+        "sequencia": 6,
+        "janela_inicio": "13:30",
+        "janela_fim": "14:15"
+      },
+      {
+        "cliente_id": "CLI0077",
+        "sequencia": 7,
+        "janela_inicio": "14:25",
+        "janela_fim": "15:10"
+      },
+      {
+        "cliente_id": "CLI0092",
+        "sequencia": 8,
+        "janela_inicio": "15:20",
+        "janela_fim": "16:05"
+      },
+      {
+        "cliente_id": "CLI0048",
+        "sequencia": 9,
+        "janela_inicio": "16:15",
+        "janela_fim": "17:00"
+      },
+      {
+        "cliente_id": "CLI0085",
+        "sequencia": 10,
+        "janela_inicio": "17:10",
+        "janela_fim": "17:55"
+      },
+      {
+        "cliente_id": "CLI0051",
+        "sequencia": 11,
+        "janela_inicio": "18:05",
+        "janela_fim": "18:50"
+      }
+    ],
+    "km_previsto": 148.8
+  },
+  {
+    "vendedor_id": "V02",
+    "data": "2026-08-04",
+    "paradas": [
+      {
+        "cliente_id": "CLI0073",
+        "sequencia": 1,
+        "janela_inicio": "08:00",
+        "janela_fim": "08:45"
+      },
+      {
+        "cliente_id": "CLI0042",
+        "sequencia": 2,
+        "janela_inicio": "08:55",
+        "janela_fim": "09:40"
+      },
+      {
+        "cliente_id": "CLI0095",
+        "sequencia": 3,
+        "janela_inicio": "09:50",
+        "janela_fim": "10:35"
+      },
+      {
+        "cliente_id": "CLI0049",
+        "sequencia": 4,
+        "janela_inicio": "10:45",
+        "janela_fim": "11:30"
+      },
+      {
+        "cliente_id": "CLI0102",
+        "sequencia": 5,
+        "janela_inicio": "11:40",
+        "janela_fim": "12:25"
+      }
+    ],
+    "km_previsto": 51
+  },
+  {
+    "vendedor_id": "V02",
+    "data": "2026-08-05",
+    "paradas": [
+      {
+        "cliente_id": "CLI0026",
+        "sequencia": 1,
+        "janela_inicio": "08:00",
+        "janela_fim": "08:45"
+      },
+      {
+        "cliente_id": "CLI0011",
+        "sequencia": 2,
+        "janela_inicio": "08:55",
+        "janela_fim": "09:40"
+      },
+      {
+        "cliente_id": "CLI0093",
+        "sequencia": 3,
+        "janela_inicio": "09:50",
+        "janela_fim": "10:35"
+      },
+      {
+        "cliente_id": "CLI0042",
+        "sequencia": 4,
+        "janela_inicio": "10:45",
+        "janela_fim": "11:30"
+      },
+      {
+        "cliente_id": "CLI0063",
+        "sequencia": 5,
+        "janela_inicio": "11:40",
+        "janela_fim": "12:25"
+      },
+      {
+        "cliente_id": "CLI0112",
+        "sequencia": 6,
+        "janela_inicio": "13:30",
+        "janela_fim": "14:15"
+      },
+      {
+        "cliente_id": "CLI0099",
+        "sequencia": 7,
+        "janela_inicio": "14:25",
+        "janela_fim": "15:10"
+      }
+    ],
+    "km_previsto": 52.8
+  },
+  {
+    "vendedor_id": "V01",
+    "data": "2026-08-05",
+    "paradas": [
+      {
+        "cliente_id": "CLI0037",
+        "sequencia": 1,
+        "janela_inicio": "08:00",
+        "janela_fim": "08:45"
+      },
+      {
+        "cliente_id": "CLI0013",
+        "sequencia": 2,
+        "janela_inicio": "08:55",
+        "janela_fim": "09:40"
+      },
+      {
+        "cliente_id": "CLI0029",
+        "sequencia": 3,
+        "janela_inicio": "09:50",
+        "janela_fim": "10:35"
+      },
+      {
+        "cliente_id": "CLI0071",
+        "sequencia": 4,
+        "janela_inicio": "10:45",
+        "janela_fim": "11:30"
+      }
+    ],
+    "km_previsto": 38.6
+  },
+  {
+    "vendedor_id": "V03",
+    "data": "2026-08-05",
+    "paradas": [
+      {
+        "cliente_id": "CLI0033",
+        "sequencia": 1,
+        "janela_inicio": "08:00",
+        "janela_fim": "08:45"
+      },
+      {
+        "cliente_id": "CLI0060",
+        "sequencia": 2,
+        "janela_inicio": "08:55",
+        "janela_fim": "09:40"
+      },
+      {
+        "cliente_id": "CLI0084",
+        "sequencia": 3,
+        "janela_inicio": "09:50",
+        "janela_fim": "10:35"
+      },
+      {
+        "cliente_id": "CLI0120",
+        "sequencia": 4,
+        "janela_inicio": "10:45",
+        "janela_fim": "11:30"
+      }
+    ],
+    "km_previsto": 40.7
+  },
+  {
+    "vendedor_id": "V04",
+    "data": "2026-08-05",
+    "paradas": [
+      {
+        "cliente_id": "CLI0083",
+        "sequencia": 1,
+        "janela_inicio": "08:00",
+        "janela_fim": "08:45"
+      },
+      {
+        "cliente_id": "CLI0113",
+        "sequencia": 2,
+        "janela_inicio": "08:55",
+        "janela_fim": "09:40"
+      },
+      {
+        "cliente_id": "CLI0058",
+        "sequencia": 3,
+        "janela_inicio": "09:50",
+        "janela_fim": "10:35"
+      },
+      {
+        "cliente_id": "CLI0043",
+        "sequencia": 4,
+        "janela_inicio": "10:45",
+        "janela_fim": "11:30"
+      },
+      {
+        "cliente_id": "CLI0057",
+        "sequencia": 5,
+        "janela_inicio": "11:40",
+        "janela_fim": "12:25"
+      },
+      {
+        "cliente_id": "CLI0051",
+        "sequencia": 6,
+        "janela_inicio": "13:30",
+        "janela_fim": "14:15"
+      }
+    ],
+    "km_previsto": 46
+  }
+]

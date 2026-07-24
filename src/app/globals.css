@@ -1,0 +1,78 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Tokens da marca — ver docs/identidade-visual.md */
+:root {
+  color-scheme: dark;
+
+  --rib-azul: #10406d;
+  --rib-medio: #429dc1;
+  --rib-claro: #aad5f6;
+
+  --fundo: #06101a;
+  --superficie: #0d1c2c;
+  --elevado: #15293d;
+  --borda: #1e3a54;
+}
+
+html {
+  /* o app é usado em rua: nada de zoom acidental ao tocar dois cards rápido */
+  touch-action: manipulation;
+  -webkit-text-size-adjust: 100%;
+}
+
+body {
+  background: var(--fundo);
+  color: #eaf3fb;
+  overscroll-behavior-y: none;
+  /* brilho sutil atrás do topo, na cor da marca — dá profundidade sem custar imagem */
+  background-image:
+    radial-gradient(120% 60% at 50% -10%, rgba(66, 157, 193, 0.16), transparent 60%);
+  background-attachment: fixed;
+}
+
+/* dinheiro e contagem de dias não podem tremer quando a fila anima */
+.tabular {
+  font-variant-numeric: tabular-nums;
+}
+
+/* foco visível de teclado — obrigatório, e no escuro precisa ser o acento */
+:where(a, button, input, [tabindex]):focus-visible {
+  outline: 2px solid var(--rib-claro);
+  outline-offset: 2px;
+  border-radius: 10px;
+}
+
+/* barra de rolagem discreta, para não brigar com o fundo escuro no desktop */
+* {
+  scrollbar-width: thin;
+  scrollbar-color: #1e3a54 transparent;
+}
+
+/* respeita quem desligou animação no sistema */
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    transition-duration: 0.01ms !important;
+  }
+}
+
+@keyframes sobe {
+  from { transform: translateY(100%); }
+  to   { transform: translateY(0); }
+}
+.anim-sobe { animation: sobe 0.2s cubic-bezier(0.2, 0.8, 0.2, 1); }
+
+@keyframes surge {
+  from { opacity: 0; }
+  to   { opacity: 1; }
+}
+.anim-surge { animation: surge 0.18s ease-out; }
+
+@keyframes some {
+  to { opacity: 0; transform: scale(0.97) translateX(-16px); }
+}
+.anim-some { animation: some 0.22s ease-in forwards; }

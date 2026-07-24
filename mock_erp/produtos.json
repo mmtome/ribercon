@@ -1,0 +1,72 @@
+[
+  {
+    "id": "PRD001",
+    "descricao": "Refil sabonete espuma neutro 800ml",
+    "familia_id": "FAM01",
+    "preco_tabela": 28.9,
+    "unidade": "UN"
+  },
+  {
+    "id": "PRD002",
+    "descricao": "Refil sabonete espuma antisseptico 800ml",
+    "familia_id": "FAM01",
+    "preco_tabela": 34.5,
+    "unidade": "UN"
+  },
+  {
+    "id": "PRD003",
+    "descricao": "Papel toalha interfolha 2 dobras cx 1000fl",
+    "familia_id": "FAM02",
+    "preco_tabela": 89.9,
+    "unidade": "CX"
+  },
+  {
+    "id": "PRD004",
+    "descricao": "Papel toalha interfolha luxo cx 1000fl",
+    "familia_id": "FAM02",
+    "preco_tabela": 112.0,
+    "unidade": "CX"
+  },
+  {
+    "id": "PRD005",
+    "descricao": "Papel higienico rolao 300m fardo 8un",
+    "familia_id": "FAM03",
+    "preco_tabela": 96.0,
+    "unidade": "FD"
+  },
+  {
+    "id": "PRD006",
+    "descricao": "Papel higienico rolao 500m fardo 8un",
+    "familia_id": "FAM03",
+    "preco_tabela": 148.0,
+    "unidade": "FD"
+  },
+  {
+    "id": "PRD007",
+    "descricao": "Alcool gel 70% refil 800ml",
+    "familia_id": "FAM04",
+    "preco_tabela": 22.4,
+    "unidade": "UN"
+  },
+  {
+    "id": "PRD008",
+    "descricao": "Detergente concentrado 5L",
+    "familia_id": "FAM05",
+    "preco_tabela": 68.0,
+    "unidade": "GL"
+  },
+  {
+    "id": "PRD009",
+    "descricao": "Desinfetante concentrado 5L",
+    "familia_id": "FAM06",
+    "preco_tabela": 54.0,
+    "unidade": "GL"
+  },
+  {
+    "id": "PRD010",
+    "descricao": "Saco lixo 100L reforcado pct 100un",
+    "familia_id": "FAM07",
+    "preco_tabela": 78.0,
+    "unidade": "PCT"
+  }
+]

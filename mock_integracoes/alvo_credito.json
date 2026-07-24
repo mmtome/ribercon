@@ -1,0 +1,962 @@
+[
+  {
+    "cliente_id": "CLI0001",
+    "situacao": "liberado",
+    "limite": 19602.09,
+    "saldo_devedor": 10039.8,
+    "titulos_vencidos": 0,
+    "maior_atraso_dias": 0
+  },
+  {
+    "cliente_id": "CLI0002",
+    "situacao": "liberado",
+    "limite": 41451.58,
+    "saldo_devedor": 6563.17,
+    "titulos_vencidos": 0,
+    "maior_atraso_dias": 0
+  },
+  {
+    "cliente_id": "CLI0003",
+    "situacao": "liberado",
+    "limite": 26479.68,
+    "saldo_devedor": 5012.2,
+    "titulos_vencidos": 0,
+    "maior_atraso_dias": 0
+  },
+  {
+    "cliente_id": "CLI0004",
+    "situacao": "liberado",
+    "limite": 44947.6,
+    "saldo_devedor": 18651,
+    "titulos_vencidos": 0,
+    "maior_atraso_dias": 0
+  },
+  {
+    "cliente_id": "CLI0005",
+    "situacao": "liberado",
+    "limite": 59672.9,
+    "saldo_devedor": 11064.7,
+    "titulos_vencidos": 0,
+    "maior_atraso_dias": 0
+  },
+  {
+    "cliente_id": "CLI0006",
+    "situacao": "liberado",
+    "limite": 52152.46,
+    "saldo_devedor": 5751.55,
+    "titulos_vencidos": 0,
+    "maior_atraso_dias": 0
+  },
+  {
+    "cliente_id": "CLI0007",
+    "situacao": "liberado",
+    "limite": 9992.87,
+    "saldo_devedor": 1028.22,
+    "titulos_vencidos": 0,
+    "maior_atraso_dias": 0
+  },
+  {
+    "cliente_id": "CLI0008",
+    "situacao": "atencao",
+    "limite": 10909.81,
+    "saldo_devedor": 6918.32,
+    "titulos_vencidos": 1,
+    "maior_atraso_dias": 9
+  },
+  {
+    "cliente_id": "CLI0009",
+    "situacao": "liberado",
+    "limite": 28037.07,
+    "saldo_devedor": 8725.32,
+    "titulos_vencidos": 0,
+    "maior_atraso_dias": 0
+  },
+  {
+    "cliente_id": "CLI0010",
+    "situacao": "liberado",
+    "limite": 55715.38,
+    "saldo_devedor": 11067.15,
+    "titulos_vencidos": 0,
+    "maior_atraso_dias": 0
+  },
+  {
+    "cliente_id": "CLI0011",
+    "situacao": "atencao",
+    "limite": 51842.42,
+    "saldo_devedor": 30174.74,
+    "titulos_vencidos": 2,
+    "maior_atraso_dias": 22
+  },
+  {
+    "cliente_id": "CLI0012",
+    "situacao": "liberado",
+    "limite": 51566.14,
+    "saldo_devedor": 671.3,
+    "titulos_vencidos": 0,
+    "maior_atraso_dias": 0
+  },
+  {
+    "cliente_id": "CLI0013",
+    "situacao": "liberado",
+    "limite": 9649.83,
+    "saldo_devedor": 2593.31,
+    "titulos_vencidos": 0,
+    "maior_atraso_dias": 0
+  },
+  {
+    "cliente_id": "CLI0014",
+    "situacao": "liberado",
+    "limite": 47420.19,
+    "saldo_devedor": 12362.46,
+    "titulos_vencidos": 0,
+    "maior_atraso_dias": 0
+  },
+  {
+    "cliente_id": "CLI0015",
+    "situacao": "liberado",
+    "limite": 38291.52,
+    "saldo_devedor": 19913.44,
+    "titulos_vencidos": 0,
+    "maior_atraso_dias": 0
+  },
+  {
+    "cliente_id": "CLI0016",
+    "situacao": "liberado",
+    "limite": 55795.22,
+    "saldo_devedor": 30479.17,
+    "titulos_vencidos": 0,
+    "maior_atraso_dias": 0
+  },
+  {
+    "cliente_id": "CLI0017",
+    "situacao": "atencao",
+    "limite": 24532.16,
+    "saldo_devedor": 21021.83,
+    "titulos_vencidos": 1,
+    "maior_atraso_dias": 28
+  },
+  {
+    "cliente_id": "CLI0018",
+    "situacao": "atencao",
+    "limite": 39748.23,
+    "saldo_devedor": 25078.23,
+    "titulos_vencidos": 2,
+    "maior_atraso_dias": 26
+  },
+  {
+    "cliente_id": "CLI0019",
+    "situacao": "liberado",
+    "limite": 43682.34,
+    "saldo_devedor": 2640.18,
+    "titulos_vencidos": 0,
+    "maior_atraso_dias": 0
+  },
+  {
+    "cliente_id": "CLI0020",
+    "situacao": "liberado",
+    "limite": 51127.9,
+    "saldo_devedor": 11872.21,
+    "titulos_vencidos": 0,
+    "maior_atraso_dias": 0
+  },
+  {
+    "cliente_id": "CLI0021",
+    "situacao": "liberado",
+    "limite": 59183.19,
+    "saldo_devedor": 5693.66,
+    "titulos_vencidos": 0,
+    "maior_atraso_dias": 0
+  },
+  {
+    "cliente_id": "CLI0022",
+    "situacao": "liberado",
+    "limite": 56915.31,
+    "saldo_devedor": 21481.66,
+    "titulos_vencidos": 0,
+    "maior_atraso_dias": 0
+  },
+  {
+    "cliente_id": "CLI0023",
+    "situacao": "liberado",
+    "limite": 37608.39,
+    "saldo_devedor": 8585.4,
+    "titulos_vencidos": 0,
+    "maior_atraso_dias": 0
+  },
+  {
+    "cliente_id": "CLI0024",
+    "situacao": "liberado",
+    "limite": 5425.26,
+    "saldo_devedor": 997.59,
+    "titulos_vencidos": 0,
+    "maior_atraso_dias": 0
+  },
+  {
+    "cliente_id": "CLI0025",
+    "situacao": "liberado",
+    "limite": 46033.72,
+    "saldo_devedor": 4284.85,
+    "titulos_vencidos": 0,
+    "maior_atraso_dias": 0
+  },
+  {
+    "cliente_id": "CLI0026",
+    "situacao": "liberado",
+    "limite": 40977.84,
+    "saldo_devedor": 9420.01,
+    "titulos_vencidos": 0,
+    "maior_atraso_dias": 0
+  },
+  {
+    "cliente_id": "CLI0027",
+    "situacao": "atencao",
+    "limite": 43009.39,
+    "saldo_devedor": 33456.58,
+    "titulos_vencidos": 1,
+    "maior_atraso_dias": 20
+  },
+  {
+    "cliente_id": "CLI0028",
+    "situacao": "liberado",
+    "limite": 19321.56,
+    "saldo_devedor": 5830.63,
+    "titulos_vencidos": 0,
+    "maior_atraso_dias": 0
+  },
+  {
+    "cliente_id": "CLI0029",
+    "situacao": "liberado",
+    "limite": 39688.68,
+    "saldo_devedor": 282.79,
+    "titulos_vencidos": 0,
+    "maior_atraso_dias": 0
+  },
+  {
+    "cliente_id": "CLI0030",
+    "situacao": "liberado",
+    "limite": 21806.03,
+    "saldo_devedor": 8983.94,
+    "titulos_vencidos": 0,
+    "maior_atraso_dias": 0
+  },
+  {
+    "cliente_id": "CLI0031",
+    "situacao": "bloqueado",
+    "limite": 43370.83,
+    "saldo_devedor": 65011.31,
+    "titulos_vencidos": 6,
+    "maior_atraso_dias": 134
+  },
+  {
+    "cliente_id": "CLI0032",
+    "situacao": "liberado",
+    "limite": 6225.29,
+    "saldo_devedor": 2926.66,
+    "titulos_vencidos": 0,
+    "maior_atraso_dias": 0
+  },
+  {
+    "cliente_id": "CLI0033",
+    "situacao": "liberado",
+    "limite": 46674.8,
+    "saldo_devedor": 21358.51,
+    "titulos_vencidos": 0,
+    "maior_atraso_dias": 0
+  },
+  {
+    "cliente_id": "CLI0034",
+    "situacao": "liberado",
+    "limite": 57630.25,
+    "saldo_devedor": 7485.3,
+    "titulos_vencidos": 0,
+    "maior_atraso_dias": 0
+  },
+  {
+    "cliente_id": "CLI0035",
+    "situacao": "bloqueado",
+    "limite": 31454.13,
+    "saldo_devedor": 39652.06,
+    "titulos_vencidos": 6,
+    "maior_atraso_dias": 141
+  },
+  {
+    "cliente_id": "CLI0036",
+    "situacao": "liberado",
+    "limite": 23153.14,
+    "saldo_devedor": 2207.63,
+    "titulos_vencidos": 0,
+    "maior_atraso_dias": 0
+  },
+  {
+    "cliente_id": "CLI0037",
+    "situacao": "liberado",
+    "limite": 58057.16,
+    "saldo_devedor": 3045.36,
+    "titulos_vencidos": 0,
+    "maior_atraso_dias": 0
+  },
+  {
+    "cliente_id": "CLI0038",
+    "situacao": "liberado",
+    "limite": 34530.99,
+    "saldo_devedor": 9665.98,
+    "titulos_vencidos": 0,
+    "maior_atraso_dias": 0
+  },
+  {
+    "cliente_id": "CLI0039",
+    "situacao": "liberado",
+    "limite": 10121.61,
+    "saldo_devedor": 979.3,
+    "titulos_vencidos": 0,
+    "maior_atraso_dias": 0
+  },
+  {
+    "cliente_id": "CLI0040",
+    "situacao": "liberado",
+    "limite": 53534.48,
+    "saldo_devedor": 3646.69,
+    "titulos_vencidos": 0,
+    "maior_atraso_dias": 0
+  },
+  {
+    "cliente_id": "CLI0041",
+    "situacao": "liberado",
+    "limite": 7134.51,
+    "saldo_devedor": 2089.46,
+    "titulos_vencidos": 0,
+    "maior_atraso_dias": 0
+  },
+  {
+    "cliente_id": "CLI0042",
+    "situacao": "atencao",
+    "limite": 8159.42,
+    "saldo_devedor": 6985.05,
+    "titulos_vencidos": 1,
+    "maior_atraso_dias": 27
+  },
+  {
+    "cliente_id": "CLI0043",
+    "situacao": "liberado",
+    "limite": 12133.9,
+    "saldo_devedor": 2987.58,
+    "titulos_vencidos": 0,
+    "maior_atraso_dias": 0
+  },
+  {
+    "cliente_id": "CLI0044",
+    "situacao": "liberado",
+    "limite": 18134.67,
+    "saldo_devedor": 2004.53,
+    "titulos_vencidos": 0,
+    "maior_atraso_dias": 0
+  },
+  {
+    "cliente_id": "CLI0045",
+    "situacao": "liberado",
+    "limite": 38214.33,
+    "saldo_devedor": 4470.5,
+    "titulos_vencidos": 0,
+    "maior_atraso_dias": 0
+  },
+  {
+    "cliente_id": "CLI0046",
+    "situacao": "atencao",
+    "limite": 7318.93,
+    "saldo_devedor": 6388.65,
+    "titulos_vencidos": 1,
+    "maior_atraso_dias": 16
+  },
+  {
+    "cliente_id": "CLI0047",
+    "situacao": "liberado",
+    "limite": 42098.71,
+    "saldo_devedor": 8438.35,
+    "titulos_vencidos": 0,
+    "maior_atraso_dias": 0
+  },
+  {
+    "cliente_id": "CLI0048",
+    "situacao": "atencao",
+    "limite": 31184.48,
+    "saldo_devedor": 20527.29,
+    "titulos_vencidos": 2,
+    "maior_atraso_dias": 6
+  },
+  {
+    "cliente_id": "CLI0049",
+    "situacao": "liberado",
+    "limite": 44250.62,
+    "saldo_devedor": 2895.15,
+    "titulos_vencidos": 0,
+    "maior_atraso_dias": 0
+  },
+  {
+    "cliente_id": "CLI0050",
+    "situacao": "liberado",
+    "limite": 43292.66,
+    "saldo_devedor": 5209.44,
+    "titulos_vencidos": 0,
+    "maior_atraso_dias": 0
+  },
+  {
+    "cliente_id": "CLI0051",
+    "situacao": "atencao",
+    "limite": 18993.5,
+    "saldo_devedor": 11791.73,
+    "titulos_vencidos": 2,
+    "maior_atraso_dias": 9
+  },
+  {
+    "cliente_id": "CLI0052",
+    "situacao": "liberado",
+    "limite": 59007.39,
+    "saldo_devedor": 369.77,
+    "titulos_vencidos": 0,
+    "maior_atraso_dias": 0
+  },
+  {
+    "cliente_id": "CLI0053",
+    "situacao": "liberado",
+    "limite": 14568.02,
+    "saldo_devedor": 334.02,
+    "titulos_vencidos": 0,
+    "maior_atraso_dias": 0
+  },
+  {
+    "cliente_id": "CLI0054",
+    "situacao": "liberado",
+    "limite": 24056.17,
+    "saldo_devedor": 10573.49,
+    "titulos_vencidos": 0,
+    "maior_atraso_dias": 0
+  },
+  {
+    "cliente_id": "CLI0055",
+    "situacao": "atencao",
+    "limite": 55094.5,
+    "saldo_devedor": 32377.31,
+    "titulos_vencidos": 1,
+    "maior_atraso_dias": 15
+  },
+  {
+    "cliente_id": "CLI0056",
+    "situacao": "liberado",
+    "limite": 57224.72,
+    "saldo_devedor": 11852.37,
+    "titulos_vencidos": 0,
+    "maior_atraso_dias": 0
+  },
+  {
+    "cliente_id": "CLI0057",
+    "situacao": "liberado",
+    "limite": 18784.66,
+    "saldo_devedor": 9706.45,
+    "titulos_vencidos": 0,
+    "maior_atraso_dias": 0
+  },
+  {
+    "cliente_id": "CLI0058",
+    "situacao": "atencao",
+    "limite": 52351.88,
+    "saldo_devedor": 43044.88,
+    "titulos_vencidos": 2,
+    "maior_atraso_dias": 19
+  },
+  {
+    "cliente_id": "CLI0059",
+    "situacao": "liberado",
+    "limite": 22489.87,
+    "saldo_devedor": 7151.01,
+    "titulos_vencidos": 0,
+    "maior_atraso_dias": 0
+  },
+  {
+    "cliente_id": "CLI0060",
+    "situacao": "liberado",
+    "limite": 38339.87,
+    "saldo_devedor": 1085.39,
+    "titulos_vencidos": 0,
+    "maior_atraso_dias": 0
+  },
+  {
+    "cliente_id": "CLI0061",
+    "situacao": "liberado",
+    "limite": 38642.6,
+    "saldo_devedor": 10787.86,
+    "titulos_vencidos": 0,
+    "maior_atraso_dias": 0
+  },
+  {
+    "cliente_id": "CLI0062",
+    "situacao": "liberado",
+    "limite": 16159.5,
+    "saldo_devedor": 4882.87,
+    "titulos_vencidos": 0,
+    "maior_atraso_dias": 0
+  },
+  {
+    "cliente_id": "CLI0063",
+    "situacao": "liberado",
+    "limite": 46628.62,
+    "saldo_devedor": 16169.58,
+    "titulos_vencidos": 0,
+    "maior_atraso_dias": 0
+  },
+  {
+    "cliente_id": "CLI0064",
+    "situacao": "liberado",
+    "limite": 32170.03,
+    "saldo_devedor": 4023.09,
+    "titulos_vencidos": 0,
+    "maior_atraso_dias": 0
+  },
+  {
+    "cliente_id": "CLI0065",
+    "situacao": "liberado",
+    "limite": 42315.25,
+    "saldo_devedor": 7416.23,
+    "titulos_vencidos": 0,
+    "maior_atraso_dias": 0
+  },
+  {
+    "cliente_id": "CLI0066",
+    "situacao": "liberado",
+    "limite": 36435.58,
+    "saldo_devedor": 2375.84,
+    "titulos_vencidos": 0,
+    "maior_atraso_dias": 0
+  },
+  {
+    "cliente_id": "CLI0067",
+    "situacao": "bloqueado",
+    "limite": 20229.31,
+    "saldo_devedor": 24034.3,
+    "titulos_vencidos": 5,
+    "maior_atraso_dias": 93
+  },
+  {
+    "cliente_id": "CLI0068",
+    "situacao": "liberado",
+    "limite": 17987.61,
+    "saldo_devedor": 4425.12,
+    "titulos_vencidos": 0,
+    "maior_atraso_dias": 0
+  },
+  {
+    "cliente_id": "CLI0069",
+    "situacao": "liberado",
+    "limite": 49510.5,
+    "saldo_devedor": 18724.67,
+    "titulos_vencidos": 0,
+    "maior_atraso_dias": 0
+  },
+  {
+    "cliente_id": "CLI0070",
+    "situacao": "liberado",
+    "limite": 5458.35,
+    "saldo_devedor": 2330.63,
+    "titulos_vencidos": 0,
+    "maior_atraso_dias": 0
+  },
+  {
+    "cliente_id": "CLI0071",
+    "situacao": "liberado",
+    "limite": 22861.97,
+    "saldo_devedor": 2501.51,
+    "titulos_vencidos": 0,
+    "maior_atraso_dias": 0
+  },
+  {
+    "cliente_id": "CLI0072",
+    "situacao": "atencao",
+    "limite": 56240.27,
+    "saldo_devedor": 50829.23,
+    "titulos_vencidos": 1,
+    "maior_atraso_dias": 14
+  },
+  {
+    "cliente_id": "CLI0073",
+    "situacao": "liberado",
+    "limite": 20896.02,
+    "saldo_devedor": 6942.11,
+    "titulos_vencidos": 0,
+    "maior_atraso_dias": 0
+  },
+  {
+    "cliente_id": "CLI0074",
+    "situacao": "liberado",
+    "limite": 32269.39,
+    "saldo_devedor": 3897.74,
+    "titulos_vencidos": 0,
+    "maior_atraso_dias": 0
+  },
+  {
+    "cliente_id": "CLI0075",
+    "situacao": "liberado",
+    "limite": 32834.61,
+    "saldo_devedor": 15002.16,
+    "titulos_vencidos": 0,
+    "maior_atraso_dias": 0
+  },
+  {
+    "cliente_id": "CLI0076",
+    "situacao": "liberado",
+    "limite": 47155.99,
+    "saldo_devedor": 22434.17,
+    "titulos_vencidos": 0,
+    "maior_atraso_dias": 0
+  },
+  {
+    "cliente_id": "CLI0077",
+    "situacao": "liberado",
+    "limite": 59547.96,
+    "saldo_devedor": 29509.01,
+    "titulos_vencidos": 0,
+    "maior_atraso_dias": 0
+  },
+  {
+    "cliente_id": "CLI0078",
+    "situacao": "atencao",
+    "limite": 31649.09,
+    "saldo_devedor": 25626.42,
+    "titulos_vencidos": 1,
+    "maior_atraso_dias": 15
+  },
+  {
+    "cliente_id": "CLI0079",
+    "situacao": "liberado",
+    "limite": 33423.35,
+    "saldo_devedor": 5363.63,
+    "titulos_vencidos": 0,
+    "maior_atraso_dias": 0
+  },
+  {
+    "cliente_id": "CLI0080",
+    "situacao": "liberado",
+    "limite": 38780.74,
+    "saldo_devedor": 5919.11,
+    "titulos_vencidos": 0,
+    "maior_atraso_dias": 0
+  },
+  {
+    "cliente_id": "CLI0081",
+    "situacao": "atencao",
+    "limite": 32779.5,
+    "saldo_devedor": 27223.29,
+    "titulos_vencidos": 2,
+    "maior_atraso_dias": 5
+  },
+  {
+    "cliente_id": "CLI0082",
+    "situacao": "liberado",
+    "limite": 25197.91,
+    "saldo_devedor": 13031.8,
+    "titulos_vencidos": 0,
+    "maior_atraso_dias": 0
+  },
+  {
+    "cliente_id": "CLI0083",
+    "situacao": "liberado",
+    "limite": 25463.6,
+    "saldo_devedor": 5700.12,
+    "titulos_vencidos": 0,
+    "maior_atraso_dias": 0
+  },
+  {
+    "cliente_id": "CLI0084",
+    "situacao": "liberado",
+    "limite": 39629.37,
+    "saldo_devedor": 12080.77,
+    "titulos_vencidos": 0,
+    "maior_atraso_dias": 0
+  },
+  {
+    "cliente_id": "CLI0085",
+    "situacao": "bloqueado",
+    "limite": 39674.55,
+    "saldo_devedor": 44724.67,
+    "titulos_vencidos": 4,
+    "maior_atraso_dias": 66
+  },
+  {
+    "cliente_id": "CLI0086",
+    "situacao": "liberado",
+    "limite": 36672.29,
+    "saldo_devedor": 3442.41,
+    "titulos_vencidos": 0,
+    "maior_atraso_dias": 0
+  },
+  {
+    "cliente_id": "CLI0087",
+    "situacao": "liberado",
+    "limite": 36606.14,
+    "saldo_devedor": 6153.11,
+    "titulos_vencidos": 0,
+    "maior_atraso_dias": 0
+  },
+  {
+    "cliente_id": "CLI0088",
+    "situacao": "liberado",
+    "limite": 12219.87,
+    "saldo_devedor": 3503.33,
+    "titulos_vencidos": 0,
+    "maior_atraso_dias": 0
+  },
+  {
+    "cliente_id": "CLI0089",
+    "situacao": "liberado",
+    "limite": 33568.51,
+    "saldo_devedor": 8976.51,
+    "titulos_vencidos": 0,
+    "maior_atraso_dias": 0
+  },
+  {
+    "cliente_id": "CLI0090",
+    "situacao": "bloqueado",
+    "limite": 31213.65,
+    "saldo_devedor": 34189.47,
+    "titulos_vencidos": 3,
+    "maior_atraso_dias": 141
+  },
+  {
+    "cliente_id": "CLI0091",
+    "situacao": "liberado",
+    "limite": 26149.75,
+    "saldo_devedor": 2344.2,
+    "titulos_vencidos": 0,
+    "maior_atraso_dias": 0
+  },
+  {
+    "cliente_id": "CLI0092",
+    "situacao": "liberado",
+    "limite": 23884.91,
+    "saldo_devedor": 8913.21,
+    "titulos_vencidos": 0,
+    "maior_atraso_dias": 0
+  },
+  {
+    "cliente_id": "CLI0093",
+    "situacao": "liberado",
+    "limite": 12786.39,
+    "saldo_devedor": 4008.36,
+    "titulos_vencidos": 0,
+    "maior_atraso_dias": 0
+  },
+  {
+    "cliente_id": "CLI0094",
+    "situacao": "liberado",
+    "limite": 15373.97,
+    "saldo_devedor": 978.02,
+    "titulos_vencidos": 0,
+    "maior_atraso_dias": 0
+  },
+  {
+    "cliente_id": "CLI0095",
+    "situacao": "liberado",
+    "limite": 6319.8,
+    "saldo_devedor": 2066.1,
+    "titulos_vencidos": 0,
+    "maior_atraso_dias": 0
+  },
+  {
+    "cliente_id": "CLI0096",
+    "situacao": "liberado",
+    "limite": 6542.21,
+    "saldo_devedor": 1020.14,
+    "titulos_vencidos": 0,
+    "maior_atraso_dias": 0
+  },
+  {
+    "cliente_id": "CLI0097",
+    "situacao": "bloqueado",
+    "limite": 41610.65,
+    "saldo_devedor": 65271.1,
+    "titulos_vencidos": 4,
+    "maior_atraso_dias": 122
+  },
+  {
+    "cliente_id": "CLI0098",
+    "situacao": "atencao",
+    "limite": 31651.25,
+    "saldo_devedor": 17458.94,
+    "titulos_vencidos": 2,
+    "maior_atraso_dias": 22
+  },
+  {
+    "cliente_id": "CLI0099",
+    "situacao": "liberado",
+    "limite": 51553.39,
+    "saldo_devedor": 7085.7,
+    "titulos_vencidos": 0,
+    "maior_atraso_dias": 0
+  },
+  {
+    "cliente_id": "CLI0100",
+    "situacao": "liberado",
+    "limite": 55372.6,
+    "saldo_devedor": 483.76,
+    "titulos_vencidos": 0,
+    "maior_atraso_dias": 0
+  },
+  {
+    "cliente_id": "CLI0101",
+    "situacao": "liberado",
+    "limite": 51510.53,
+    "saldo_devedor": 22713.6,
+    "titulos_vencidos": 0,
+    "maior_atraso_dias": 0
+  },
+  {
+    "cliente_id": "CLI0102",
+    "situacao": "liberado",
+    "limite": 35613.96,
+    "saldo_devedor": 10948.27,
+    "titulos_vencidos": 0,
+    "maior_atraso_dias": 0
+  },
+  {
+    "cliente_id": "CLI0103",
+    "situacao": "atencao",
+    "limite": 15709.14,
+    "saldo_devedor": 12407.54,
+    "titulos_vencidos": 1,
+    "maior_atraso_dias": 28
+  },
+  {
+    "cliente_id": "CLI0104",
+    "situacao": "liberado",
+    "limite": 5264.09,
+    "saldo_devedor": 2675.86,
+    "titulos_vencidos": 0,
+    "maior_atraso_dias": 0
+  },
+  {
+    "cliente_id": "CLI0105",
+    "situacao": "liberado",
+    "limite": 44287.23,
+    "saldo_devedor": 21772.97,
+    "titulos_vencidos": 0,
+    "maior_atraso_dias": 0
+  },
+  {
+    "cliente_id": "CLI0106",
+    "situacao": "atencao",
+    "limite": 16162.69,
+    "saldo_devedor": 15064.47,
+    "titulos_vencidos": 1,
+    "maior_atraso_dias": 8
+  },
+  {
+    "cliente_id": "CLI0107",
+    "situacao": "liberado",
+    "limite": 8735.54,
+    "saldo_devedor": 3071.29,
+    "titulos_vencidos": 0,
+    "maior_atraso_dias": 0
+  },
+  {
+    "cliente_id": "CLI0108",
+    "situacao": "liberado",
+    "limite": 26731.56,
+    "saldo_devedor": 12598.69,
+    "titulos_vencidos": 0,
+    "maior_atraso_dias": 0
+  },
+  {
+    "cliente_id": "CLI0109",
+    "situacao": "liberado",
+    "limite": 24157.28,
+    "saldo_devedor": 4744.7,
+    "titulos_vencidos": 0,
+    "maior_atraso_dias": 0
+  },
+  {
+    "cliente_id": "CLI0110",
+    "situacao": "liberado",
+    "limite": 42291.94,
+    "saldo_devedor": 12023.03,
+    "titulos_vencidos": 0,
+    "maior_atraso_dias": 0
+  },
+  {
+    "cliente_id": "CLI0111",
+    "situacao": "atencao",
+    "limite": 17750.81,
+    "saldo_devedor": 13566.08,
+    "titulos_vencidos": 2,
+    "maior_atraso_dias": 28
+  },
+  {
+    "cliente_id": "CLI0112",
+    "situacao": "liberado",
+    "limite": 44433.38,
+    "saldo_devedor": 5894.88,
+    "titulos_vencidos": 0,
+    "maior_atraso_dias": 0
+  },
+  {
+    "cliente_id": "CLI0113",
+    "situacao": "liberado",
+    "limite": 35632.96,
+    "saldo_devedor": 1207.78,
+    "titulos_vencidos": 0,
+    "maior_atraso_dias": 0
+  },
+  {
+    "cliente_id": "CLI0114",
+    "situacao": "liberado",
+    "limite": 44495.02,
+    "saldo_devedor": 2348.68,
+    "titulos_vencidos": 0,
+    "maior_atraso_dias": 0
+  },
+  {
+    "cliente_id": "CLI0115",
+    "situacao": "atencao",
+    "limite": 36560.35,
+    "saldo_devedor": 22891.37,
+    "titulos_vencidos": 2,
+    "maior_atraso_dias": 25
+  },
+  {
+    "cliente_id": "CLI0116",
+    "situacao": "liberado",
+    "limite": 30540.41,
+    "saldo_devedor": 16577.74,
+    "titulos_vencidos": 0,
+    "maior_atraso_dias": 0
+  },
+  {
+    "cliente_id": "CLI0117",
+    "situacao": "liberado",
+    "limite": 15045.13,
+    "saldo_devedor": 916.24,
+    "titulos_vencidos": 0,
+    "maior_atraso_dias": 0
+  },
+  {
+    "cliente_id": "CLI0118",
+    "situacao": "liberado",
+    "limite": 4044.86,
+    "saldo_devedor": 2212.72,
+    "titulos_vencidos": 0,
+    "maior_atraso_dias": 0
+  },
+  {
+    "cliente_id": "CLI0119",
+    "situacao": "bloqueado",
+    "limite": 21993.98,
+    "saldo_devedor": 30625.95,
+    "titulos_vencidos": 5,
+    "maior_atraso_dias": 159
+  },
+  {
+    "cliente_id": "CLI0120",
+    "situacao": "liberado",
+    "limite": 52910.74,
+    "saldo_devedor": 23620.99,
+    "titulos_vencidos": 0,
+    "maior_atraso_dias": 0
+  }
+]

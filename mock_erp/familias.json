@@ -1,0 +1,37 @@
+[
+  {
+    "id": "FAM01",
+    "nome": "Refil sabonete espuma",
+    "consumivel_de": "dispenser_sabonete"
+  },
+  {
+    "id": "FAM02",
+    "nome": "Papel toalha interfolha",
+    "consumivel_de": "dispenser_papel_toalha"
+  },
+  {
+    "id": "FAM03",
+    "nome": "Papel higienico rolao",
+    "consumivel_de": "dispenser_papel_higienico"
+  },
+  {
+    "id": "FAM04",
+    "nome": "Alcool gel",
+    "consumivel_de": "dispenser_alcool"
+  },
+  {
+    "id": "FAM05",
+    "nome": "Detergente concentrado",
+    "consumivel_de": null
+  },
+  {
+    "id": "FAM06",
+    "nome": "Desinfetante concentrado",
+    "consumivel_de": null
+  },
+  {
+    "id": "FAM07",
+    "nome": "Saco de lixo",
+    "consumivel_de": null
+  }
+]

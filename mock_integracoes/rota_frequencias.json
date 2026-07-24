@@ -1,0 +1,1223 @@
+[
+  {
+    "cliente_id": "CLI0001",
+    "dias_semana": [
+      5
+    ],
+    "periodicidade_semanas": 1,
+    "canal": "presencial",
+    "latitude": -20.564477,
+    "longitude": -47.409915
+  },
+  {
+    "cliente_id": "CLI0002",
+    "dias_semana": [
+      2,
+      4
+    ],
+    "periodicidade_semanas": 1,
+    "canal": "presencial",
+    "latitude": -18.883252,
+    "longitude": -48.226355
+  },
+  {
+    "cliente_id": "CLI0003",
+    "dias_semana": [
+      2
+    ],
+    "periodicidade_semanas": 2,
+    "canal": "presencial",
+    "latitude": -18.95934,
+    "longitude": -48.322587
+  },
+  {
+    "cliente_id": "CLI0004",
+    "dias_semana": [
+      3
+    ],
+    "periodicidade_semanas": 2,
+    "canal": "presencial",
+    "latitude": -21.123215,
+    "longitude": -47.798384
+  },
+  {
+    "cliente_id": "CLI0005",
+    "dias_semana": [
+      2
+    ],
+    "periodicidade_semanas": 1,
+    "canal": "presencial",
+    "latitude": -19.769949,
+    "longitude": -47.928713
+  },
+  {
+    "cliente_id": "CLI0006",
+    "dias_semana": [
+      5
+    ],
+    "periodicidade_semanas": 1,
+    "canal": "presencial",
+    "latitude": -20.58787,
+    "longitude": -48.571097
+  },
+  {
+    "cliente_id": "CLI0007",
+    "dias_semana": [
+      4
+    ],
+    "periodicidade_semanas": 1,
+    "canal": "presencial",
+    "latitude": -21.142487,
+    "longitude": -47.76053
+  },
+  {
+    "cliente_id": "CLI0008",
+    "dias_semana": [
+      1
+    ],
+    "periodicidade_semanas": 1,
+    "canal": "presencial",
+    "latitude": -19.771693,
+    "longitude": -47.975431
+  },
+  {
+    "cliente_id": "CLI0009",
+    "dias_semana": [],
+    "periodicidade_semanas": 0,
+    "canal": "telefone",
+    "latitude": -18.922194,
+    "longitude": -48.268308
+  },
+  {
+    "cliente_id": "CLI0010",
+    "dias_semana": [
+      2
+    ],
+    "periodicidade_semanas": 2,
+    "canal": "presencial",
+    "latitude": -19.763049,
+    "longitude": -47.985042
+  },
+  {
+    "cliente_id": "CLI0011",
+    "dias_semana": [
+      3,
+      4
+    ],
+    "periodicidade_semanas": 1,
+    "canal": "presencial",
+    "latitude": -20.57415,
+    "longitude": -48.545211
+  },
+  {
+    "cliente_id": "CLI0012",
+    "dias_semana": [
+      5
+    ],
+    "periodicidade_semanas": 1,
+    "canal": "presencial",
+    "latitude": -20.542418,
+    "longitude": -48.572873
+  },
+  {
+    "cliente_id": "CLI0013",
+    "dias_semana": [
+      3
+    ],
+    "periodicidade_semanas": 1,
+    "canal": "presencial",
+    "latitude": -19.715538,
+    "longitude": -47.959322
+  },
+  {
+    "cliente_id": "CLI0014",
+    "dias_semana": [
+      1,
+      4
+    ],
+    "periodicidade_semanas": 1,
+    "canal": "presencial",
+    "latitude": -21.200727,
+    "longitude": -47.82972
+  },
+  {
+    "cliente_id": "CLI0015",
+    "dias_semana": [
+      1,
+      5
+    ],
+    "periodicidade_semanas": 1,
+    "canal": "presencial",
+    "latitude": -21.200538,
+    "longitude": -47.754311
+  },
+  {
+    "cliente_id": "CLI0016",
+    "dias_semana": [
+      2,
+      3
+    ],
+    "periodicidade_semanas": 2,
+    "canal": "presencial",
+    "latitude": -19.800606,
+    "longitude": -47.944583
+  },
+  {
+    "cliente_id": "CLI0017",
+    "dias_semana": [
+      2,
+      5
+    ],
+    "periodicidade_semanas": 2,
+    "canal": "presencial",
+    "latitude": -18.934127,
+    "longitude": -48.223047
+  },
+  {
+    "cliente_id": "CLI0018",
+    "dias_semana": [
+      1,
+      5
+    ],
+    "periodicidade_semanas": 2,
+    "canal": "presencial",
+    "latitude": -18.869167,
+    "longitude": -48.269621
+  },
+  {
+    "cliente_id": "CLI0019",
+    "dias_semana": [],
+    "periodicidade_semanas": 0,
+    "canal": "telefone",
+    "latitude": -20.542086,
+    "longitude": -47.391955
+  },
+  {
+    "cliente_id": "CLI0020",
+    "dias_semana": [],
+    "periodicidade_semanas": 0,
+    "canal": "telefone",
+    "latitude": -19.727234,
+    "longitude": -47.990998
+  },
+  {
+    "cliente_id": "CLI0021",
+    "dias_semana": [
+      2
+    ],
+    "periodicidade_semanas": 1,
+    "canal": "presencial",
+    "latitude": -18.947444,
+    "longitude": -48.258009
+  },
+  {
+    "cliente_id": "CLI0022",
+    "dias_semana": [
+      1
+    ],
+    "periodicidade_semanas": 1,
+    "canal": "presencial",
+    "latitude": -19.726512,
+    "longitude": -47.993431
+  },
+  {
+    "cliente_id": "CLI0023",
+    "dias_semana": [
+      1,
+      5
+    ],
+    "periodicidade_semanas": 1,
+    "canal": "presencial",
+    "latitude": -19.594986,
+    "longitude": -46.883594
+  },
+  {
+    "cliente_id": "CLI0024",
+    "dias_semana": [
+      1
+    ],
+    "periodicidade_semanas": 1,
+    "canal": "presencial",
+    "latitude": -20.565546,
+    "longitude": -48.593578
+  },
+  {
+    "cliente_id": "CLI0025",
+    "dias_semana": [
+      3
+    ],
+    "periodicidade_semanas": 2,
+    "canal": "presencial",
+    "latitude": -20.503191,
+    "longitude": -47.350777
+  },
+  {
+    "cliente_id": "CLI0026",
+    "dias_semana": [
+      1,
+      3
+    ],
+    "periodicidade_semanas": 1,
+    "canal": "presencial",
+    "latitude": -20.586074,
+    "longitude": -48.60635
+  },
+  {
+    "cliente_id": "CLI0027",
+    "dias_semana": [],
+    "periodicidade_semanas": 0,
+    "canal": "telefone",
+    "latitude": -20.522752,
+    "longitude": -47.433177
+  },
+  {
+    "cliente_id": "CLI0028",
+    "dias_semana": [
+      1,
+      5
+    ],
+    "periodicidade_semanas": 1,
+    "canal": "presencial",
+    "latitude": -21.202034,
+    "longitude": -47.788228
+  },
+  {
+    "cliente_id": "CLI0029",
+    "dias_semana": [
+      3
+    ],
+    "periodicidade_semanas": 1,
+    "canal": "presencial",
+    "latitude": -20.522315,
+    "longitude": -47.38766
+  },
+  {
+    "cliente_id": "CLI0030",
+    "dias_semana": [
+      2,
+      4
+    ],
+    "periodicidade_semanas": 1,
+    "canal": "presencial",
+    "latitude": -20.54415,
+    "longitude": -48.600127
+  },
+  {
+    "cliente_id": "CLI0031",
+    "dias_semana": [
+      2,
+      5
+    ],
+    "periodicidade_semanas": 1,
+    "canal": "presencial",
+    "latitude": -21.170554,
+    "longitude": -47.760512
+  },
+  {
+    "cliente_id": "CLI0032",
+    "dias_semana": [
+      4
+    ],
+    "periodicidade_semanas": 1,
+    "canal": "presencial",
+    "latitude": -21.138468,
+    "longitude": -47.760983
+  },
+  {
+    "cliente_id": "CLI0033",
+    "dias_semana": [
+      2,
+      3
+    ],
+    "periodicidade_semanas": 1,
+    "canal": "presencial",
+    "latitude": -19.799519,
+    "longitude": -47.941506
+  },
+  {
+    "cliente_id": "CLI0034",
+    "dias_semana": [
+      2
+    ],
+    "periodicidade_semanas": 1,
+    "canal": "presencial",
+    "latitude": -21.229157,
+    "longitude": -47.790555
+  },
+  {
+    "cliente_id": "CLI0035",
+    "dias_semana": [
+      1,
+      2
+    ],
+    "periodicidade_semanas": 1,
+    "canal": "presencial",
+    "latitude": -20.48699,
+    "longitude": -47.426221
+  },
+  {
+    "cliente_id": "CLI0036",
+    "dias_semana": [
+      5
+    ],
+    "periodicidade_semanas": 1,
+    "canal": "presencial",
+    "latitude": -20.611727,
+    "longitude": -48.53025
+  },
+  {
+    "cliente_id": "CLI0037",
+    "dias_semana": [
+      3,
+      5
+    ],
+    "periodicidade_semanas": 1,
+    "canal": "presencial",
+    "latitude": -18.969282,
+    "longitude": -48.307057
+  },
+  {
+    "cliente_id": "CLI0038",
+    "dias_semana": [
+      5
+    ],
+    "periodicidade_semanas": 2,
+    "canal": "presencial",
+    "latitude": -19.6068,
+    "longitude": -46.886506
+  },
+  {
+    "cliente_id": "CLI0039",
+    "dias_semana": [
+      4
+    ],
+    "periodicidade_semanas": 1,
+    "canal": "presencial",
+    "latitude": -20.576582,
+    "longitude": -47.401976
+  },
+  {
+    "cliente_id": "CLI0040",
+    "dias_semana": [
+      4
+    ],
+    "periodicidade_semanas": 1,
+    "canal": "presencial",
+    "latitude": -20.535774,
+    "longitude": -48.572761
+  },
+  {
+    "cliente_id": "CLI0041",
+    "dias_semana": [
+      3,
+      4
+    ],
+    "periodicidade_semanas": 2,
+    "canal": "presencial",
+    "latitude": -21.22637,
+    "longitude": -47.806033
+  },
+  {
+    "cliente_id": "CLI0042",
+    "dias_semana": [
+      2,
+      3
+    ],
+    "periodicidade_semanas": 1,
+    "canal": "presencial",
+    "latitude": -19.687839,
+    "longitude": -47.886715
+  },
+  {
+    "cliente_id": "CLI0043",
+    "dias_semana": [
+      3,
+      5
+    ],
+    "periodicidade_semanas": 1,
+    "canal": "presencial",
+    "latitude": -21.208201,
+    "longitude": -47.77972
+  },
+  {
+    "cliente_id": "CLI0044",
+    "dias_semana": [
+      5
+    ],
+    "periodicidade_semanas": 2,
+    "canal": "presencial",
+    "latitude": -20.58453,
+    "longitude": -47.440339
+  },
+  {
+    "cliente_id": "CLI0045",
+    "dias_semana": [
+      4
+    ],
+    "periodicidade_semanas": 2,
+    "canal": "presencial",
+    "latitude": -19.616465,
+    "longitude": -46.922708
+  },
+  {
+    "cliente_id": "CLI0046",
+    "dias_semana": [
+      2,
+      4
+    ],
+    "periodicidade_semanas": 1,
+    "canal": "presencial",
+    "latitude": -18.914754,
+    "longitude": -48.246962
+  },
+  {
+    "cliente_id": "CLI0047",
+    "dias_semana": [],
+    "periodicidade_semanas": 0,
+    "canal": "telefone",
+    "latitude": -21.166868,
+    "longitude": -47.799629
+  },
+  {
+    "cliente_id": "CLI0048",
+    "dias_semana": [
+      2,
+      5
+    ],
+    "periodicidade_semanas": 1,
+    "canal": "presencial",
+    "latitude": -19.618146,
+    "longitude": -46.966918
+  },
+  {
+    "cliente_id": "CLI0049",
+    "dias_semana": [
+      2
+    ],
+    "periodicidade_semanas": 1,
+    "canal": "presencial",
+    "latitude": -19.645717,
+    "longitude": -46.951256
+  },
+  {
+    "cliente_id": "CLI0050",
+    "dias_semana": [
+      2,
+      4
+    ],
+    "periodicidade_semanas": 2,
+    "canal": "presencial",
+    "latitude": -21.181368,
+    "longitude": -47.821062
+  },
+  {
+    "cliente_id": "CLI0051",
+    "dias_semana": [
+      2,
+      3
+    ],
+    "periodicidade_semanas": 1,
+    "canal": "presencial",
+    "latitude": -19.5388,
+    "longitude": -46.91494
+  },
+  {
+    "cliente_id": "CLI0052",
+    "dias_semana": [
+      2
+    ],
+    "periodicidade_semanas": 1,
+    "canal": "presencial",
+    "latitude": -19.798559,
+    "longitude": -47.893047
+  },
+  {
+    "cliente_id": "CLI0053",
+    "dias_semana": [
+      2,
+      4
+    ],
+    "periodicidade_semanas": 1,
+    "canal": "presencial",
+    "latitude": -18.863754,
+    "longitude": -48.321608
+  },
+  {
+    "cliente_id": "CLI0054",
+    "dias_semana": [
+      5
+    ],
+    "periodicidade_semanas": 1,
+    "canal": "presencial",
+    "latitude": -21.227404,
+    "longitude": -47.754705
+  },
+  {
+    "cliente_id": "CLI0055",
+    "dias_semana": [
+      1,
+      4
+    ],
+    "periodicidade_semanas": 1,
+    "canal": "presencial",
+    "latitude": -19.643446,
+    "longitude": -46.886589
+  },
+  {
+    "cliente_id": "CLI0056",
+    "dias_semana": [
+      1
+    ],
+    "periodicidade_semanas": 1,
+    "canal": "presencial",
+    "latitude": -20.535819,
+    "longitude": -48.516074
+  },
+  {
+    "cliente_id": "CLI0057",
+    "dias_semana": [
+      2,
+      3
+    ],
+    "periodicidade_semanas": 1,
+    "canal": "presencial",
+    "latitude": -20.513931,
+    "longitude": -47.39042
+  },
+  {
+    "cliente_id": "CLI0058",
+    "dias_semana": [
+      3,
+      5
+    ],
+    "periodicidade_semanas": 1,
+    "canal": "presencial",
+    "latitude": -21.222413,
+    "longitude": -47.842422
+  },
+  {
+    "cliente_id": "CLI0059",
+    "dias_semana": [
+      1
+    ],
+    "periodicidade_semanas": 1,
+    "canal": "presencial",
+    "latitude": -19.540758,
+    "longitude": -46.929253
+  },
+  {
+    "cliente_id": "CLI0060",
+    "dias_semana": [
+      2,
+      3
+    ],
+    "periodicidade_semanas": 1,
+    "canal": "presencial",
+    "latitude": -21.199015,
+    "longitude": -47.807366
+  },
+  {
+    "cliente_id": "CLI0061",
+    "dias_semana": [
+      1,
+      5
+    ],
+    "periodicidade_semanas": 1,
+    "canal": "presencial",
+    "latitude": -20.490451,
+    "longitude": -47.369117
+  },
+  {
+    "cliente_id": "CLI0062",
+    "dias_semana": [],
+    "periodicidade_semanas": 0,
+    "canal": "telefone",
+    "latitude": -19.739359,
+    "longitude": -47.922658
+  },
+  {
+    "cliente_id": "CLI0063",
+    "dias_semana": [
+      3
+    ],
+    "periodicidade_semanas": 1,
+    "canal": "presencial",
+    "latitude": -21.149721,
+    "longitude": -47.821534
+  },
+  {
+    "cliente_id": "CLI0064",
+    "dias_semana": [
+      1,
+      2
+    ],
+    "periodicidade_semanas": 1,
+    "canal": "presencial",
+    "latitude": -20.54115,
+    "longitude": -48.531157
+  },
+  {
+    "cliente_id": "CLI0065",
+    "dias_semana": [
+      4
+    ],
+    "periodicidade_semanas": 1,
+    "canal": "presencial",
+    "latitude": -19.787296,
+    "longitude": -47.886354
+  },
+  {
+    "cliente_id": "CLI0066",
+    "dias_semana": [
+      1
+    ],
+    "periodicidade_semanas": 1,
+    "canal": "presencial",
+    "latitude": -19.772103,
+    "longitude": -47.894995
+  },
+  {
+    "cliente_id": "CLI0067",
+    "dias_semana": [
+      4
+    ],
+    "periodicidade_semanas": 1,
+    "canal": "presencial",
+    "latitude": -21.227339,
+    "longitude": -47.751964
+  },
+  {
+    "cliente_id": "CLI0068",
+    "dias_semana": [],
+    "periodicidade_semanas": 0,
+    "canal": "telefone",
+    "latitude": -19.717417,
+    "longitude": -47.987829
+  },
+  {
+    "cliente_id": "CLI0069",
+    "dias_semana": [
+      4
+    ],
+    "periodicidade_semanas": 2,
+    "canal": "presencial",
+    "latitude": -19.780485,
+    "longitude": -47.904537
+  },
+  {
+    "cliente_id": "CLI0070",
+    "dias_semana": [],
+    "periodicidade_semanas": 0,
+    "canal": "telefone",
+    "latitude": -19.610041,
+    "longitude": -46.905707
+  },
+  {
+    "cliente_id": "CLI0071",
+    "dias_semana": [
+      3
+    ],
+    "periodicidade_semanas": 1,
+    "canal": "presencial",
+    "latitude": -19.584328,
+    "longitude": -46.915968
+  },
+  {
+    "cliente_id": "CLI0072",
+    "dias_semana": [],
+    "periodicidade_semanas": 0,
+    "canal": "telefone",
+    "latitude": -21.150855,
+    "longitude": -47.780726
+  },
+  {
+    "cliente_id": "CLI0073",
+    "dias_semana": [
+      2,
+      5
+    ],
+    "periodicidade_semanas": 1,
+    "canal": "presencial",
+    "latitude": -20.534481,
+    "longitude": -48.580236
+  },
+  {
+    "cliente_id": "CLI0074",
+    "dias_semana": [
+      1,
+      5
+    ],
+    "periodicidade_semanas": 2,
+    "canal": "presencial",
+    "latitude": -19.586418,
+    "longitude": -46.992776
+  },
+  {
+    "cliente_id": "CLI0075",
+    "dias_semana": [
+      5
+    ],
+    "periodicidade_semanas": 1,
+    "canal": "presencial",
+    "latitude": -20.611825,
+    "longitude": -48.597137
+  },
+  {
+    "cliente_id": "CLI0076",
+    "dias_semana": [
+      5
+    ],
+    "periodicidade_semanas": 1,
+    "canal": "presencial",
+    "latitude": -20.584077,
+    "longitude": -47.432614
+  },
+  {
+    "cliente_id": "CLI0077",
+    "dias_semana": [
+      2
+    ],
+    "periodicidade_semanas": 1,
+    "canal": "presencial",
+    "latitude": -20.499268,
+    "longitude": -47.357908
+  },
+  {
+    "cliente_id": "CLI0078",
+    "dias_semana": [
+      5
+    ],
+    "periodicidade_semanas": 2,
+    "canal": "presencial",
+    "latitude": -21.180829,
+    "longitude": -47.854865
+  },
+  {
+    "cliente_id": "CLI0079",
+    "dias_semana": [
+      2
+    ],
+    "periodicidade_semanas": 1,
+    "canal": "presencial",
+    "latitude": -20.516259,
+    "longitude": -47.344758
+  },
+  {
+    "cliente_id": "CLI0080",
+    "dias_semana": [
+      3
+    ],
+    "periodicidade_semanas": 2,
+    "canal": "presencial",
+    "latitude": -21.129069,
+    "longitude": -47.801174
+  },
+  {
+    "cliente_id": "CLI0081",
+    "dias_semana": [
+      5
+    ],
+    "periodicidade_semanas": 2,
+    "canal": "presencial",
+    "latitude": -20.591293,
+    "longitude": -47.430875
+  },
+  {
+    "cliente_id": "CLI0082",
+    "dias_semana": [
+      4
+    ],
+    "periodicidade_semanas": 1,
+    "canal": "presencial",
+    "latitude": -20.588243,
+    "longitude": -47.388731
+  },
+  {
+    "cliente_id": "CLI0083",
+    "dias_semana": [
+      3
+    ],
+    "periodicidade_semanas": 1,
+    "canal": "presencial",
+    "latitude": -20.516793,
+    "longitude": -48.609813
+  },
+  {
+    "cliente_id": "CLI0084",
+    "dias_semana": [
+      2,
+      3
+    ],
+    "periodicidade_semanas": 1,
+    "canal": "presencial",
+    "latitude": -21.161221,
+    "longitude": -47.787317
+  },
+  {
+    "cliente_id": "CLI0085",
+    "dias_semana": [
+      2,
+      4
+    ],
+    "periodicidade_semanas": 1,
+    "canal": "presencial",
+    "latitude": -19.57095,
+    "longitude": -46.91943
+  },
+  {
+    "cliente_id": "CLI0086",
+    "dias_semana": [
+      1
+    ],
+    "periodicidade_semanas": 1,
+    "canal": "presencial",
+    "latitude": -19.56462,
+    "longitude": -46.994227
+  },
+  {
+    "cliente_id": "CLI0087",
+    "dias_semana": [
+      5
+    ],
+    "periodicidade_semanas": 1,
+    "canal": "presencial",
+    "latitude": -21.169197,
+    "longitude": -47.764785
+  },
+  {
+    "cliente_id": "CLI0088",
+    "dias_semana": [
+      1,
+      5
+    ],
+    "periodicidade_semanas": 1,
+    "canal": "presencial",
+    "latitude": -20.534954,
+    "longitude": -47.343737
+  },
+  {
+    "cliente_id": "CLI0089",
+    "dias_semana": [
+      4,
+      5
+    ],
+    "periodicidade_semanas": 1,
+    "canal": "presencial",
+    "latitude": -21.119786,
+    "longitude": -47.818447
+  },
+  {
+    "cliente_id": "CLI0090",
+    "dias_semana": [
+      1
+    ],
+    "periodicidade_semanas": 2,
+    "canal": "presencial",
+    "latitude": -20.61351,
+    "longitude": -48.54144
+  },
+  {
+    "cliente_id": "CLI0091",
+    "dias_semana": [
+      4
+    ],
+    "periodicidade_semanas": 1,
+    "canal": "presencial",
+    "latitude": -18.951868,
+    "longitude": -48.268883
+  },
+  {
+    "cliente_id": "CLI0092",
+    "dias_semana": [
+      2,
+      5
+    ],
+    "periodicidade_semanas": 1,
+    "canal": "presencial",
+    "latitude": -19.641668,
+    "longitude": -46.997486
+  },
+  {
+    "cliente_id": "CLI0093",
+    "dias_semana": [
+      1,
+      3
+    ],
+    "periodicidade_semanas": 1,
+    "canal": "presencial",
+    "latitude": -18.958661,
+    "longitude": -48.258784
+  },
+  {
+    "cliente_id": "CLI0094",
+    "dias_semana": [],
+    "periodicidade_semanas": 0,
+    "canal": "telefone",
+    "latitude": -20.608617,
+    "longitude": -48.610059
+  },
+  {
+    "cliente_id": "CLI0095",
+    "dias_semana": [
+      2,
+      5
+    ],
+    "periodicidade_semanas": 1,
+    "canal": "presencial",
+    "latitude": -21.172862,
+    "longitude": -47.793604
+  },
+  {
+    "cliente_id": "CLI0096",
+    "dias_semana": [],
+    "periodicidade_semanas": 0,
+    "canal": "telefone",
+    "latitude": -21.18267,
+    "longitude": -47.7633
+  },
+  {
+    "cliente_id": "CLI0097",
+    "dias_semana": [
+      4
+    ],
+    "periodicidade_semanas": 1,
+    "canal": "presencial",
+    "latitude": -19.692254,
+    "longitude": -47.951529
+  },
+  {
+    "cliente_id": "CLI0098",
+    "dias_semana": [
+      2
+    ],
+    "periodicidade_semanas": 1,
+    "canal": "presencial",
+    "latitude": -20.563439,
+    "longitude": -48.524452
+  },
+  {
+    "cliente_id": "CLI0099",
+    "dias_semana": [
+      1,
+      3
+    ],
+    "periodicidade_semanas": 1,
+    "canal": "presencial",
+    "latitude": -20.515513,
+    "longitude": -47.345709
+  },
+  {
+    "cliente_id": "CLI0100",
+    "dias_semana": [
+      2,
+      4
+    ],
+    "periodicidade_semanas": 1,
+    "canal": "presencial",
+    "latitude": -20.488699,
+    "longitude": -47.355954
+  },
+  {
+    "cliente_id": "CLI0101",
+    "dias_semana": [
+      2,
+      3
+    ],
+    "periodicidade_semanas": 2,
+    "canal": "presencial",
+    "latitude": -21.164711,
+    "longitude": -47.790409
+  },
+  {
+    "cliente_id": "CLI0102",
+    "dias_semana": [
+      2,
+      4
+    ],
+    "periodicidade_semanas": 1,
+    "canal": "presencial",
+    "latitude": -19.545186,
+    "longitude": -46.881393
+  },
+  {
+    "cliente_id": "CLI0103",
+    "dias_semana": [],
+    "periodicidade_semanas": 0,
+    "canal": "telefone",
+    "latitude": -19.791272,
+    "longitude": -47.960859
+  },
+  {
+    "cliente_id": "CLI0104",
+    "dias_semana": [
+      1,
+      2
+    ],
+    "periodicidade_semanas": 1,
+    "canal": "presencial",
+    "latitude": -19.788819,
+    "longitude": -47.943353
+  },
+  {
+    "cliente_id": "CLI0105",
+    "dias_semana": [],
+    "periodicidade_semanas": 0,
+    "canal": "telefone",
+    "latitude": -19.600977,
+    "longitude": -46.933354
+  },
+  {
+    "cliente_id": "CLI0106",
+    "dias_semana": [
+      3
+    ],
+    "periodicidade_semanas": 2,
+    "canal": "presencial",
+    "latitude": -19.559035,
+    "longitude": -46.893005
+  },
+  {
+    "cliente_id": "CLI0107",
+    "dias_semana": [
+      5
+    ],
+    "periodicidade_semanas": 2,
+    "canal": "presencial",
+    "latitude": -20.548748,
+    "longitude": -47.406624
+  },
+  {
+    "cliente_id": "CLI0108",
+    "dias_semana": [
+      2
+    ],
+    "periodicidade_semanas": 1,
+    "canal": "presencial",
+    "latitude": -20.556993,
+    "longitude": -48.550441
+  },
+  {
+    "cliente_id": "CLI0109",
+    "dias_semana": [
+      5
+    ],
+    "periodicidade_semanas": 1,
+    "canal": "presencial",
+    "latitude": -20.507398,
+    "longitude": -47.39912
+  },
+  {
+    "cliente_id": "CLI0110",
+    "dias_semana": [
+      1,
+      5
+    ],
+    "periodicidade_semanas": 1,
+    "canal": "presencial",
+    "latitude": -18.893993,
+    "longitude": -48.311093
+  },
+  {
+    "cliente_id": "CLI0111",
+    "dias_semana": [
+      3
+    ],
+    "periodicidade_semanas": 2,
+    "canal": "presencial",
+    "latitude": -20.592827,
+    "longitude": -47.443778
+  },
+  {
+    "cliente_id": "CLI0112",
+    "dias_semana": [
+      3,
+      5
+    ],
+    "periodicidade_semanas": 1,
+    "canal": "presencial",
+    "latitude": -21.197134,
+    "longitude": -47.793389
+  },
+  {
+    "cliente_id": "CLI0113",
+    "dias_semana": [
+      1,
+      3
+    ],
+    "periodicidade_semanas": 1,
+    "canal": "presencial",
+    "latitude": -20.53598,
+    "longitude": -48.531873
+  },
+  {
+    "cliente_id": "CLI0114",
+    "dias_semana": [
+      4,
+      5
+    ],
+    "periodicidade_semanas": 1,
+    "canal": "presencial",
+    "latitude": -21.168336,
+    "longitude": -47.766728
+  },
+  {
+    "cliente_id": "CLI0115",
+    "dias_semana": [
+      1
+    ],
+    "periodicidade_semanas": 1,
+    "canal": "presencial",
+    "latitude": -21.236455,
+    "longitude": -47.763232
+  },
+  {
+    "cliente_id": "CLI0116",
+    "dias_semana": [],
+    "periodicidade_semanas": 0,
+    "canal": "telefone",
+    "latitude": -21.133727,
+    "longitude": -47.86251
+  },
+  {
+    "cliente_id": "CLI0117",
+    "dias_semana": [
+      5
+    ],
+    "periodicidade_semanas": 1,
+    "canal": "presencial",
+    "latitude": -20.54997,
+    "longitude": -48.596762
+  },
+  {
+    "cliente_id": "CLI0118",
+    "dias_semana": [
+      1
+    ],
+    "periodicidade_semanas": 1,
+    "canal": "presencial",
+    "latitude": -19.747074,
+    "longitude": -47.905564
+  },
+  {
+    "cliente_id": "CLI0119",
+    "dias_semana": [
+      3,
+      4
+    ],
+    "periodicidade_semanas": 2,
+    "canal": "presencial",
+    "latitude": -21.121531,
+    "longitude": -47.752303
+  },
+  {
+    "cliente_id": "CLI0120",
+    "dias_semana": [
+      2,
+      3
+    ],
+    "periodicidade_semanas": 1,
+    "canal": "presencial",
+    "latitude": -20.588744,
+    "longitude": -47.34246
+  }
+]
